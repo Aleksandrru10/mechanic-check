@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.35.apk",
-  "versionName": "1.35",
-  "versionCode": 36,
+  "apk": "MechanicCheck-1.36.apk",
+  "versionName": "1.36",
+  "versionCode": 37,
   "size": 238475,
-  "notes": "Для BESTUNE T99 добавлены интервалы ТО из официального руководства: первое 5 000 км/6 мес, масло 10 000 км/12 мес, тормозная жидкость 24 мес, фильтр кондиционера 12 мес/20 000 км, 6AT/8AT.",
-  "sha256": "82b22f50d015ef3532b7927cb8d5fdc25ce93bea706a261bbe29d5b1f57a8c55",
+  "notes": "По официальному руководству TENET T4 добавлены жидкости и объёмы 517MHA, 626DHA, CVT 018CHA/025CHC, DCT 730DHE, охлаждения 2WD/AWD, раздаточной коробки и редуктора; добавлены операции ТО-1—ТО-8.",
+  "sha256": "336e50f3f7b1d79fd833d91104434ead70700fe1ecb60b07c0b23c07ad1dac98",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
