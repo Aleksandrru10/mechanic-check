@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "packageName": "ru.sash.mechaniccheck",
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "minSdk": 26,
-  "apk": "MechanicCheck-1.4.apk",
-  "sha256": "40567bc68e53f14de35b6579098acd2357ba1ff484c83891d3339fd0120f6414",
+  "apk": "MechanicCheck-1.5.apk",
+  "sha256": "a81aff5218b9db292d9518bebcd0ea556efc7f59fd5e4dbc9f1fe4426dbbba04",
   "size": 70539,
-  "notes": "Добавлена обязательная финальная проверка перед выдачей автомобиля."
+  "notes": "Добавлен таймер работы с паузой и сохранением времени по каждой машине."
 }
