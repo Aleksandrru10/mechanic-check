@@ -1,8 +1,8 @@
 {
-  "file": "MechanicCheck-1.39.apk",
-  "versionName": "1.39",
-  "versionCode": 40,
+  "file": "MechanicCheck-1.40.apk",
+  "versionName": "1.40",
+  "versionCode": 41,
   "bytes": 238475,
-  "sha256": "a1c9e37642da9fa9c566ca7613de803b903b2acd28781eebaea81bd8bea32d31",
-  "notes": "Добавлены официальные технические данные и регламент ТО-1 — ТО-8 для TENET T9."
+  "sha256": "96d6bf0c18878d13f34b88ce304035095671ebd51902c498365b15844f17ffd9",
+  "notes": "Добавлены официальные данные и отдельный регламент ТО-1 — ТО-8 для JETOUR X70."
 }
