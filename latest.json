@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.26.apk",
-  "versionName": "1.26",
-  "versionCode": 27,
+  "apk": "MechanicCheck-1.27.apk",
+  "versionName": "1.27",
+  "versionCode": 28,
   "size": 234379,
-  "notes": "Для CHERY TIGGO 4, TIGGO 7L, TIGGO 8 PRO MAX и ARRIZO 8 добавлены отдельные операции ТО-1—ТО-8 с учётом DCT, AWD, фильтров, свечей, тормозной системы и жидкостей.",
-  "sha256": "a4616d8e542436ac526353dc45b20a8f9f788c326bb0ef9f80383b862043068f",
+  "notes": "В карточках CHERY отображается официальный межсервисный предел: не более 10 000 км или 365 дней.",
+  "sha256": "0875cf9ae66e797d51c9342a08cb269c350273e1e9c8e1ff1a05a95504add01a",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
