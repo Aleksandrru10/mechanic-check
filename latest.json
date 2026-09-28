@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "packageName": "ru.sash.mechaniccheck",
-  "versionCode": 4,
-  "versionName": "1.3",
+  "versionCode": 5,
+  "versionName": "1.4",
   "minSdk": 26,
-  "apk": "MechanicCheck-1.3.apk",
-  "sha256": "a69cfeaa763a194781ce5b0d22924da9347f42ad0c7fd720496b035af13e7fca",
+  "apk": "MechanicCheck-1.4.apk",
+  "sha256": "40567bc68e53f14de35b6579098acd2357ba1ff484c83891d3339fd0120f6414",
   "size": 70539,
-  "notes": "Добавлены подсказки для автомобилей и пунктов проверки, а также заметки по ремонту."
+  "notes": "Добавлена обязательная финальная проверка перед выдачей автомобиля."
 }
