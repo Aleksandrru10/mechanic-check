@@ -1,8 +1,8 @@
 {
-  "file": "MechanicCheck-1.46.apk",
-  "versionName": "1.46",
-  "versionCode": 47,
+  "file": "MechanicCheck-1.47.apk",
+  "versionName": "1.47",
+  "versionCode": 48,
   "bytes": 242571,
-  "sha256": "b1a4b5643c543da86d4cce37da25c94b47501396e651658ae41f48a643f45264",
-  "notes": "Добавлены официальные данные и отдельный регламент ТО-1 — ТО-8 для JETOUR T1."
+  "sha256": "ef863272168ffebcf55b3687888f609ad537da5e11203590888a3dca47212057",
+  "notes": "Добавлены официальные данные и отдельный регламент ТО-1 — ТО-8 для BESTUNE B70."
 }
