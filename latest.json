@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.28.apk",
-  "versionName": "1.28",
-  "versionCode": 29,
+  "apk": "MechanicCheck-1.29.apk",
+  "versionName": "1.29",
+  "versionCode": 30,
   "size": 234379,
-  "notes": "Добавлены карточки CHERY TIGGO 7 PRO MAX, TIGGO 7 PRO Plug-in Hybrid, TIGGO 8 PRO Plug-in Hybrid и TIGGO 9.",
-  "sha256": "90af34a096b7a7b094563bf925eb332f0419eddd4bbddd40be9194e867aaa712",
+  "notes": "Добавлены официальные карточки BESTUNE/FAW T55, T77, B70 и T90: двигатели, DCT/AT и варианты привода.",
+  "sha256": "3c83b8c9f9361ebf74637d15ec216f79b392d671289a7bc297975c2ef7d5761e",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
