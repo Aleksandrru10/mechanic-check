@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.12.apk",
-  "versionName": "1.12",
-  "versionCode": 13,
+  "apk": "MechanicCheck-1.13.apk",
+  "versionName": "1.13",
+  "versionCode": 14,
   "size": 230283,
-  "notes": "Для JETOUR поле Что делаешь скрывается при выборе регламентного ТО.",
-  "sha256": "540ad08d65abeded915f9d739fe7de762f1bdccc31f13baebe27bb56d2bc5e2e",
+  "notes": "Для регламентного ТО JETOUR скрыты поля Что делаешь и Название работы.",
+  "sha256": "df7a68282db07ed1e471042b88c5d85ffa93f7a3581fa175e31af5237c3dd839",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
