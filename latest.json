@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.15.apk",
-  "versionName": "1.15",
-  "versionCode": 16,
+  "apk": "MechanicCheck-1.16.apk",
+  "versionName": "1.16",
+  "versionCode": 17,
   "size": 230283,
-  "notes": "Поле Что делаешь скрыто по умолчанию и открывается только для другой марки.",
-  "sha256": "2bc95d6ecf158854960c769d1d81e78af4bebac850566273cd2207e5cc5b3136",
+  "notes": "Исправлено CSS-отображение скрытых полей JETOUR в Android WebView.",
+  "sha256": "a1195e0a9a8c41437840baab236fceb6b5647b0ceea94fc7a34603ac1b37a0d8",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
