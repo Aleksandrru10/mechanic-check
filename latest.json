@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.22.apk",
-  "versionName": "1.22",
-  "versionCode": 23,
+  "apk": "MechanicCheck-1.23.apk",
+  "versionName": "1.23",
+  "versionCode": 24,
   "size": 234379,
-  "notes": "Добавлена техническая карточка TENET T8 по официальному руководству: масла, объёмы DCT и AWD агрегатов, жидкости и интервалы обслуживания; уточнены источники технических данных FAW BESTUNE T99.",
-  "sha256": "71372ea9628092fb6b9b1f7d9bd28e72f0c4a8f8fd90786dbc96d2fe94646e5d",
+  "notes": "Для TENET T8 добавлены отдельные операции ТО-1—ТО-8: DCT, AWD агрегаты, фильтры, свечи, тормозная и охлаждающая жидкости.",
+  "sha256": "62a0fea4ae767c81a86c53929684faf519989b407a219f42cda68a2891b5b551",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
