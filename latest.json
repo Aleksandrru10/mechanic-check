@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.10.apk",
-  "versionName": "1.10",
-  "versionCode": 11,
+  "apk": "MechanicCheck-1.11.apk",
+  "versionName": "1.11",
+  "versionCode": 12,
   "size": 230283,
-  "notes": "Добавлен модельный ряд JETOUR и регламенты ТО-1 — ТО-8 с чек-листами.",
-  "sha256": "5a28eb157a2ecf38cd8bb7ff5fa7b75bf06dc0a63094098b52e5413cc949a590",
+  "notes": "Для JETOUR добавлен вариант Другая работа с ручным названием.",
+  "sha256": "33736989b119f1c1864517f136af8a2124c1a90e5a0741c137202aa1cf17c7d9",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
