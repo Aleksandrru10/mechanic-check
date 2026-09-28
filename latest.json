@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.29.apk",
-  "versionName": "1.29",
-  "versionCode": 30,
+  "apk": "MechanicCheck-1.30.apk",
+  "versionName": "1.30",
+  "versionCode": 31,
   "size": 234379,
-  "notes": "Добавлены официальные карточки BESTUNE/FAW T55, T77, B70 и T90: двигатели, DCT/AT и варианты привода.",
-  "sha256": "3c83b8c9f9361ebf74637d15ec216f79b392d671289a7bc297975c2ef7d5761e",
+  "notes": "Для BESTUNE/FAW T55, T77, B70 и T90 добавлены отдельные операции ТО-1—ТО-8 с учётом DCT, 6AT и Aisin 8AT.",
+  "sha256": "e5351ad34f045db13b185f419c260a7c95f3d9bd700b33e40d686e1a212ffa7a",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
