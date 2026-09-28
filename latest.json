@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.13.apk",
-  "versionName": "1.13",
-  "versionCode": 14,
+  "apk": "MechanicCheck-1.14.apk",
+  "versionName": "1.14",
+  "versionCode": 15,
   "size": 230283,
-  "notes": "Для регламентного ТО JETOUR скрыты поля Что делаешь и Название работы.",
-  "sha256": "df7a68282db07ed1e471042b88c5d85ffa93f7a3581fa175e31af5237c3dd839",
+  "notes": "Исправлено скрытие полей регламентного ТО JETOUR в Android WebView.",
+  "sha256": "a7602501c87636387738af222365ce2a93af170168c51d254f4314ac0c29e74e",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
