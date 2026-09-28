@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "packageName": "ru.sash.mechaniccheck",
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "minSdk": 26,
-  "apk": "MechanicCheck-1.2.apk",
-  "sha256": "e9c3eb3085c0f42cf8ad64f790e043cbdbc6601c20b47087bfe2b287229141b7",
+  "apk": "MechanicCheck-1.3.apk",
+  "sha256": "a69cfeaa763a194781ce5b0d22924da9347f42ad0c7fd720496b035af13e7fca",
   "size": 70539,
-  "notes": "Добавлены собственные пункты проверки и заметка по ремонту. Все данные сохраняются на телефоне."
+  "notes": "Добавлены подсказки для автомобилей и пунктов проверки, а также заметки по ремонту."
 }
