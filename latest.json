@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.20.apk",
-  "versionName": "1.20",
-  "versionCode": 21,
-  "size": 230283,
-  "notes": "Добавлены марки TENET, FAW, BESTUNE и CHERY с моделями российского рынка.",
-  "sha256": "bf9cdc232602d0405904b714774015ba4aa636a6da703b2e279b3ed2c1eb35b3",
+  "apk": "MechanicCheck-1.21.apk",
+  "versionName": "1.21",
+  "versionCode": 22,
+  "size": 234379,
+  "notes": "Добавлены технические данные FAW BESTUNE T99 из официального руководства.",
+  "sha256": "21bcd1df1b55974daf4179aa68ff90a09f8b143abf53b9fe5f77bbb99b71b010",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
