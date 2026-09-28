@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.32.apk",
-  "versionName": "1.32",
-  "versionCode": 33,
+  "apk": "MechanicCheck-1.33.apk",
+  "versionName": "1.33",
+  "versionCode": 34,
   "size": 234379,
-  "notes": "По официальному руководству BESTUNE T90 добавлены объёмы масла 1.5T/2.0T, охлаждающей и тормозной жидкостей, DCT BOT351C4, 8AT AW-1 и номера свечей.",
-  "sha256": "3331be1c83b7539753343f11a6d67bc35e6bbe32bbb3dcce77ca26e952023d8c",
+  "notes": "По официальному руководству BESTUNE T77 добавлены объёмы моторного масла 1.2T/1.5T, вязкости, охлаждающая жидкость и номера свечей.",
+  "sha256": "8ef312088e28f11d5494a4251263f38b764fdc7462d05c6ef403fd6aae6a6800",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
