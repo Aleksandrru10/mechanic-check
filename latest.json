@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.19.apk",
-  "versionName": "1.19",
-  "versionCode": 20,
+  "apk": "MechanicCheck-1.20.apk",
+  "versionName": "1.20",
+  "versionCode": 21,
   "size": 230283,
-  "notes": "Добавлен календарь работ с автомобилями и регламентами ТО по датам.",
-  "sha256": "82c8a6b6a52c8ff532524bd3fc0f942a292ad280809a74271b1fd3304b2c81db",
+  "notes": "Добавлены марки TENET, FAW, BESTUNE и CHERY с моделями российского рынка.",
+  "sha256": "bf9cdc232602d0405904b714774015ba4aa636a6da703b2e279b3ed2c1eb35b3",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
