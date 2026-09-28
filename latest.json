@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "packageName": "ru.sash.mechaniccheck",
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "minSdk": 26,
-  "apk": "MechanicCheck-1.6.apk",
-  "sha256": "3974919f3de2d2198f2bfab59c7d55261ece07d123787e66ec3068540e73b95b",
+  "apk": "MechanicCheck-1.7.apk",
+  "sha256": "511c796056c9ec333fd4a4bc409e11b6f36130e79402a7c94541ad9aebcba895",
   "size": 70539,
-  "notes": "Обновлена иконка приложения; план следующих функций зафиксирован в ROADMAP.md."
+  "notes": "Переработана иконка приложения: чистый силуэт легкового автомобиля."
 }
