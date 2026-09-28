@@ -1,8 +1,8 @@
 {
-  "file": "MechanicCheck-1.43.apk",
-  "versionName": "1.43",
-  "versionCode": 44,
+  "file": "MechanicCheck-1.44.apk",
+  "versionName": "1.44",
+  "versionCode": 45,
   "bytes": 238475,
-  "sha256": "2ed85db51c3612c8e9c3c563b365f676b93a65d8b08ed8506fde8debe880c7ab",
-  "notes": "Добавлены официальные данные и отдельный регламент ТО-1 — ТО-8 для JETOUR DASHING."
+  "sha256": "d60dee266378e4b1c610af012ddbbd151fadfdca3210c83953520929174030a8",
+  "notes": "Добавлены официальные данные и отдельный регламент ТО-1 — ТО-8 для JETOUR X50."
 }
