@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "ru.sash.mechaniccheck",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "minSdk": 26,
+  "apk": "MechanicCheck-1.1.apk",
+  "sha256": "aeabd66fa8ec173f49ba8f2f6f782e8210bbe9c08ce51197894cd576561c2aac",
+  "size": 70539,
+  "notes": "Исправлена кнопка начала ремонта. Добавлены чек-листы, критические пункты и сохранение работ."
+}

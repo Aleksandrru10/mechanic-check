@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="ru.sash.mechaniccheck" android:versionCode="2" android:versionName="1.1">
+<uses-sdk android:minSdkVersion="26" android:targetSdkVersion="35"/>
+<uses-permission android:name="android.permission.INTERNET"/>
+<uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES"/>
+<application android:label="&#1052;&#1077;&#1093;&#1072;&#1085;&#1080;&#1082;-&#1095;&#1077;&#1082;" android:icon="@drawable/icon" android:allowBackup="false" android:usesCleartextTraffic="false" android:supportsRtl="true" android:theme="@android:style/Theme.Material.Light.NoActionBar" android:hardwareAccelerated="true">
+<activity android:name=".MainActivity" android:exported="true" android:windowSoftInputMode="adjustResize" android:configChanges="orientation|screenSize|keyboardHidden"><intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent-filter></activity>
+<activity android:name=".UpdateActivity" android:exported="false" android:label="Обновление приложения" android:configChanges="orientation|screenSize|keyboardHidden"/>
+<provider android:name=".UpdateProvider" android:authorities="ru.sash.mechaniccheck.updates" android:exported="false" android:grantUriPermissions="true"/>
+</application></manifest>
