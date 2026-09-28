@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.36.apk",
-  "versionName": "1.36",
-  "versionCode": 37,
+  "apk": "MechanicCheck-1.37.apk",
+  "versionName": "1.37",
+  "versionCode": 38,
   "size": 238475,
-  "notes": "По официальному руководству TENET T4 добавлены жидкости и объёмы 517MHA, 626DHA, CVT 018CHA/025CHC, DCT 730DHE, охлаждения 2WD/AWD, раздаточной коробки и редуктора; добавлены операции ТО-1—ТО-8.",
-  "sha256": "336e50f3f7b1d79fd833d91104434ead70700fe1ecb60b07c0b23c07ad1dac98",
+  "notes": "Для TENET T7 добавлены официальные объёмы и интервалы обслуживания DCT, охлаждения, AWD, фильтров и свечей; исправлены инициализация T4 и сохранение выбранной модели при смене ТО.",
+  "sha256": "492c2509b6351cf3b92a8900300558d1a850e0606be3ac721c4443a01d2ae05d",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
