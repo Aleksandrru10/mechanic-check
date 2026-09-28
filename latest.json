@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.18.apk",
-  "versionName": "1.18",
-  "versionCode": 19,
+  "apk": "MechanicCheck-1.19.apk",
+  "versionName": "1.19",
+  "versionCode": 20,
   "size": 230283,
-  "notes": "Обновлена проверка механика для всех ТО: масло, фильтры, пробки, жидкости, прокачка и крепёж.",
-  "sha256": "1b6dc2ef4d0bc8dfa06ef1c5eb1df3e49c641b090cebceb5869298ff018059eb",
+  "notes": "Добавлен календарь работ с автомобилями и регламентами ТО по датам.",
+  "sha256": "82c8a6b6a52c8ff532524bd3fc0f942a292ad280809a74271b1fd3304b2c81db",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
