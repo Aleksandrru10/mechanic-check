@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.8.apk",
-  "versionName": "1.8",
-  "versionCode": 9,
+  "apk": "MechanicCheck-1.10.apk",
+  "versionName": "1.10",
+  "versionCode": 11,
   "size": 230283,
-  "notes": "Премиальная иконка по выбранному референсу: фронтальный автомобиль, золотая рамка и галочка.",
-  "sha256": "c4e8d36f91ab6cc2c732935b2d777af6dc23915b823484bd03bdb1ff9872ad74",
+  "notes": "Добавлен модельный ряд JETOUR и регламенты ТО-1 — ТО-8 с чек-листами.",
+  "sha256": "5a28eb157a2ecf38cd8bb7ff5fa7b75bf06dc0a63094098b52e5413cc949a590",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
