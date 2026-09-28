@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.21.apk",
-  "versionName": "1.21",
-  "versionCode": 22,
+  "apk": "MechanicCheck-1.22.apk",
+  "versionName": "1.22",
+  "versionCode": 23,
   "size": 234379,
-  "notes": "Добавлены технические данные FAW BESTUNE T99 из официального руководства.",
-  "sha256": "21bcd1df1b55974daf4179aa68ff90a09f8b143abf53b9fe5f77bbb99b71b010",
+  "notes": "Добавлена техническая карточка TENET T8 по официальному руководству: масла, объёмы DCT и AWD агрегатов, жидкости и интервалы обслуживания; уточнены источники технических данных FAW BESTUNE T99.",
+  "sha256": "71372ea9628092fb6b9b1f7d9bd28e72f0c4a8f8fd90786dbc96d2fe94646e5d",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
