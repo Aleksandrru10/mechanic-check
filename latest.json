@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "packageName": "ru.sash.mechaniccheck",
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "minSdk": 26,
-  "apk": "MechanicCheck-1.5.apk",
-  "sha256": "a81aff5218b9db292d9518bebcd0ea556efc7f59fd5e4dbc9f1fe4426dbbba04",
+  "apk": "MechanicCheck-1.6.apk",
+  "sha256": "3974919f3de2d2198f2bfab59c7d55261ece07d123787e66ec3068540e73b95b",
   "size": 70539,
-  "notes": "Добавлен таймер работы с паузой и сохранением времени по каждой машине."
+  "notes": "Обновлена иконка приложения; план следующих функций зафиксирован в ROADMAP.md."
 }
