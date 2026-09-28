@@ -1,8 +1,8 @@
 {
-  "file": "MechanicCheck-1.40.apk",
-  "versionName": "1.40",
-  "versionCode": 41,
+  "file": "MechanicCheck-1.41.apk",
+  "versionName": "1.41",
+  "versionCode": 42,
   "bytes": 238475,
-  "sha256": "96d6bf0c18878d13f34b88ce304035095671ebd51902c498365b15844f17ffd9",
-  "notes": "Добавлены официальные данные и отдельный регламент ТО-1 — ТО-8 для JETOUR X70."
+  "sha256": "c812883271c7169d35cc4d4c892567cbea8fa5a13c082ced1ea4a1f775ec876f",
+  "notes": "Добавлены официальные данные и отдельный регламент ТО-1 — ТО-8 для JETOUR X70+."
 }
