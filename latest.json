@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.34.apk",
-  "versionName": "1.34",
-  "versionCode": 35,
+  "apk": "MechanicCheck-1.35.apk",
+  "versionName": "1.35",
+  "versionCode": 36,
   "size": 238475,
-  "notes": "Для BESTUNE T90 в ТО-7 добавлена подтверждённая операция замены жидкости DCT BOT351C4 и фильтра (5,7 ± 0,1 л); для 8AT указана жидкость AW-1.",
-  "sha256": "ec8109342ab58b6badbeee6a7d42587f18cfb5b4295df8554ecf3e62ccb83882",
+  "notes": "Для BESTUNE T99 добавлены интервалы ТО из официального руководства: первое 5 000 км/6 мес, масло 10 000 км/12 мес, тормозная жидкость 24 мес, фильтр кондиционера 12 мес/20 000 км, 6AT/8AT.",
+  "sha256": "82b22f50d015ef3532b7927cb8d5fdc25ce93bea706a261bbe29d5b1f57a8c55",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
