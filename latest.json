@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.24.apk",
-  "versionName": "1.24",
-  "versionCode": 25,
+  "apk": "MechanicCheck-1.25.apk",
+  "versionName": "1.25",
+  "versionCode": 26,
   "size": 234379,
-  "notes": "Добавлены официальные технические карточки TENET T4, T4L, T7 и T9: двигатели, трансмиссии и межсервисный интервал 10 000 км / 365 дней.",
-  "sha256": "c462d366806e5c284af220dfd02adcc29a36f0ba617f03212ef82b4520d31786",
+  "notes": "Добавлены официальные технические карточки CHERY TIGGO 4, TIGGO 7L, TIGGO 8 PRO MAX и ARRIZO 8.",
+  "sha256": "027797b2c3776527f41b0c1b06f09635379cb7ef3f9c6e38c1e8b34bd4d74006",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
