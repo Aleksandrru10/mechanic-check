@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.27.apk",
-  "versionName": "1.27",
-  "versionCode": 28,
+  "apk": "MechanicCheck-1.28.apk",
+  "versionName": "1.28",
+  "versionCode": 29,
   "size": 234379,
-  "notes": "В карточках CHERY отображается официальный межсервисный предел: не более 10 000 км или 365 дней.",
-  "sha256": "0875cf9ae66e797d51c9342a08cb269c350273e1e9c8e1ff1a05a95504add01a",
+  "notes": "Добавлены карточки CHERY TIGGO 7 PRO MAX, TIGGO 7 PRO Plug-in Hybrid, TIGGO 8 PRO Plug-in Hybrid и TIGGO 9.",
+  "sha256": "90af34a096b7a7b094563bf925eb332f0419eddd4bbddd40be9194e867aaa712",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
