@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "packageName": "ru.sash.mechaniccheck",
-  "versionCode": 8,
-  "versionName": "1.7",
+  "apk": "MechanicCheck-1.8.apk",
+  "versionName": "1.8",
+  "versionCode": 9,
+  "size": 230283,
+  "notes": "Премиальная иконка по выбранному референсу: фронтальный автомобиль, золотая рамка и галочка.",
+  "sha256": "c4e8d36f91ab6cc2c732935b2d777af6dc23915b823484bd03bdb1ff9872ad74",
   "minSdk": 26,
-  "apk": "MechanicCheck-1.7.apk",
-  "sha256": "511c796056c9ec333fd4a4bc409e11b6f36130e79402a7c94541ad9aebcba895",
-  "size": 70539,
-  "notes": "Переработана иконка приложения: чистый силуэт легкового автомобиля."
+  "packageName": "ru.sash.mechaniccheck"
 }
