@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.30.apk",
-  "versionName": "1.30",
-  "versionCode": 31,
+  "apk": "MechanicCheck-1.31.apk",
+  "versionName": "1.31",
+  "versionCode": 32,
   "size": 234379,
-  "notes": "Для BESTUNE/FAW T55, T77, B70 и T90 добавлены отдельные операции ТО-1—ТО-8 с учётом DCT, 6AT и Aisin 8AT.",
-  "sha256": "e5351ad34f045db13b185f419c260a7c95f3d9bd700b33e40d686e1a212ffa7a",
+  "notes": "Для DCT, автоматов, AWD и гибридов добавлены обязательные финальные проверки жидкости, фильтра, пробки, разъёмов, течей и гибридных контуров.",
+  "sha256": "d68f8b8d3e567be0046a6ebdeb6bf05aa5c7d4317713aede9400b32f7f00b520",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
