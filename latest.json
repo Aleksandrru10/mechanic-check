@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.16.apk",
-  "versionName": "1.16",
-  "versionCode": 17,
+  "apk": "MechanicCheck-1.17.apk",
+  "versionName": "1.17",
+  "versionCode": 18,
   "size": 230283,
-  "notes": "Исправлено CSS-отображение скрытых полей JETOUR в Android WebView.",
-  "sha256": "a1195e0a9a8c41437840baab236fceb6b5647b0ceea94fc7a34603ac1b37a0d8",
+  "notes": "Для JETOUR скрыто поле Автомобиль; название формируется из марки и модели.",
+  "sha256": "b24d40deaa35d30a7ff83e94f9ec1afe023f4b4f78744d4cf7b6592ea133b802",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
