@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.17.apk",
-  "versionName": "1.17",
-  "versionCode": 18,
+  "apk": "MechanicCheck-1.18.apk",
+  "versionName": "1.18",
+  "versionCode": 19,
   "size": 230283,
-  "notes": "Для JETOUR скрыто поле Автомобиль; название формируется из марки и модели.",
-  "sha256": "b24d40deaa35d30a7ff83e94f9ec1afe023f4b4f78744d4cf7b6592ea133b802",
+  "notes": "Обновлена проверка механика для всех ТО: масло, фильтры, пробки, жидкости, прокачка и крепёж.",
+  "sha256": "1b6dc2ef4d0bc8dfa06ef1c5eb1df3e49c641b090cebceb5869298ff018059eb",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
