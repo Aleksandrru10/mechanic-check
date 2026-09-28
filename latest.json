@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.25.apk",
-  "versionName": "1.25",
-  "versionCode": 26,
+  "apk": "MechanicCheck-1.26.apk",
+  "versionName": "1.26",
+  "versionCode": 27,
   "size": 234379,
-  "notes": "Добавлены официальные технические карточки CHERY TIGGO 4, TIGGO 7L, TIGGO 8 PRO MAX и ARRIZO 8.",
-  "sha256": "027797b2c3776527f41b0c1b06f09635379cb7ef3f9c6e38c1e8b34bd4d74006",
+  "notes": "Для CHERY TIGGO 4, TIGGO 7L, TIGGO 8 PRO MAX и ARRIZO 8 добавлены отдельные операции ТО-1—ТО-8 с учётом DCT, AWD, фильтров, свечей, тормозной системы и жидкостей.",
+  "sha256": "a4616d8e542436ac526353dc45b20a8f9f788c326bb0ef9f80383b862043068f",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
