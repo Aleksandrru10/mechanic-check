@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.31.apk",
-  "versionName": "1.31",
-  "versionCode": 32,
+  "apk": "MechanicCheck-1.32.apk",
+  "versionName": "1.32",
+  "versionCode": 33,
   "size": 234379,
-  "notes": "Для DCT, автоматов, AWD и гибридов добавлены обязательные финальные проверки жидкости, фильтра, пробки, разъёмов, течей и гибридных контуров.",
-  "sha256": "d68f8b8d3e567be0046a6ebdeb6bf05aa5c7d4317713aede9400b32f7f00b520",
+  "notes": "По официальному руководству BESTUNE T90 добавлены объёмы масла 1.5T/2.0T, охлаждающей и тормозной жидкостей, DCT BOT351C4, 8AT AW-1 и номера свечей.",
+  "sha256": "3331be1c83b7539753343f11a6d67bc35e6bbe32bbb3dcce77ca26e952023d8c",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
