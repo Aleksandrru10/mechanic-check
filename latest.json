@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.37.apk",
-  "versionName": "1.37",
-  "versionCode": 38,
+  "apk": "MechanicCheck-1.38.apk",
+  "versionName": "1.38",
+  "versionCode": 39,
   "size": 238475,
-  "notes": "Для TENET T7 добавлены официальные объёмы и интервалы обслуживания DCT, охлаждения, AWD, фильтров и свечей; исправлены инициализация T4 и сохранение выбранной модели при смене ТО.",
-  "sha256": "492c2509b6351cf3b92a8900300558d1a850e0606be3ac721c4443a01d2ae05d",
+  "notes": "Для TENET T4L добавлены официальные объёмы масла 4,7 ± 0,2 л, DCTF-GS 4 ± 0,2 л, охлаждения 9 л, DOT4 и интервалы фильтров/свечей; добавлены ТО-1—ТО-8.",
+  "sha256": "33d8c71d39427531f2982ae2f88364fbe9b3d4b4691a031c3f885b446fb5c022",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
