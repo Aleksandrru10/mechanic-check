@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.23.apk",
-  "versionName": "1.23",
-  "versionCode": 24,
+  "apk": "MechanicCheck-1.24.apk",
+  "versionName": "1.24",
+  "versionCode": 25,
   "size": 234379,
-  "notes": "Для TENET T8 добавлены отдельные операции ТО-1—ТО-8: DCT, AWD агрегаты, фильтры, свечи, тормозная и охлаждающая жидкости.",
-  "sha256": "62a0fea4ae767c81a86c53929684faf519989b407a219f42cda68a2891b5b551",
+  "notes": "Добавлены официальные технические карточки TENET T4, T4L, T7 и T9: двигатели, трансмиссии и межсервисный интервал 10 000 км / 365 дней.",
+  "sha256": "c462d366806e5c284af220dfd02adcc29a36f0ba617f03212ef82b4520d31786",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
