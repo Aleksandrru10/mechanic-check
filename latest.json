@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "packageName": "ru.sash.mechaniccheck",
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "minSdk": 26,
-  "apk": "MechanicCheck-1.1.apk",
-  "sha256": "aeabd66fa8ec173f49ba8f2f6f782e8210bbe9c08ce51197894cd576561c2aac",
+  "apk": "MechanicCheck-1.2.apk",
+  "sha256": "e9c3eb3085c0f42cf8ad64f790e043cbdbc6601c20b47087bfe2b287229141b7",
   "size": 70539,
-  "notes": "Исправлена кнопка начала ремонта. Добавлены чек-листы, критические пункты и сохранение работ."
+  "notes": "Добавлены собственные пункты проверки и заметка по ремонту. Все данные сохраняются на телефоне."
 }
