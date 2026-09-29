@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.80.apk",
-  "versionName": "1.80",
-  "versionCode": 81,
+  "apk": "MechanicCheck-1.81.apk",
+  "versionName": "1.81",
+  "versionCode": 82,
   "size": 254859,
-  "notes": "JETOUR X70: выбор 6DCT 626DHA или 6MT 6MF22A, удалены чужие интервалы коробок; ТО сверяется по сервисной книжке",
-  "sha256": "971cadd9dbd77a3b0db33d359a8e04f9f18e07a077c62ae8075261cc89f3cad1",
+  "notes": "TENET T4: выбор двигателя, коробки и привода; ТО-1—ТО-8 и жидкости по выбранной комплектации",
+  "sha256": "9f43cc3cc10fd7b741a44d335feaea24a718407ffa20a4323536353b6fb123a6",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
