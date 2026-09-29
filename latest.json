@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.78.apk",
-  "versionName": "1.78",
-  "versionCode": 79,
+  "apk": "MechanicCheck-1.79.apk",
+  "versionName": "1.79",
+  "versionCode": 80,
   "size": 254859,
-  "notes": "CHERY TIGGO 7L: выбор 2WD или 4WD, отдельные масла и проверки полного привода, уточнённый объём охлаждающей жидкости",
-  "sha256": "8b2a1085803cc53cb243f99e48bee7aa9f35297fb2991d86c2ffdab5e1a9ada8",
+  "notes": "JETOUR T1 Гибрид: отдельная карточка и ТО-1—ТО-8 по сервисной книжке; убрана проверка полного привода для гибрида",
+  "sha256": "19b95066de548131b8dc0f8f9c2f378d0a86678bf3000915cf9eb25f8aca48ce",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
