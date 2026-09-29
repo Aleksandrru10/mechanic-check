@@ -1,8 +1,8 @@
 {
-  "file": "MechanicCheck-1.51.apk",
-  "versionName": "1.51",
-  "versionCode": 52,
+  "file": "MechanicCheck-1.52.apk",
+  "versionName": "1.52",
+  "versionCode": 53,
   "bytes": 242571,
-  "sha256": "63e6f78281b9beba5f88b8bd7111ca6e6ad0cb0145642730e4926a76a607c672",
-  "notes": "JETOUR DASHING: официальные объёмы и допуски масла для 1,5T и 1,6T, жидкость 6DCT260; уточнение по 8AT."
+  "sha256": "244495aff0b809731407574ca57382bd29b27c40f41cee99f8c9b7051ca626ec",
+  "notes": "JETOUR: официальная карта ТО-1 — ТО-8 для 7 моделей с интервалами коробок и полного привода; уточнены жидкости X70+."
 }
