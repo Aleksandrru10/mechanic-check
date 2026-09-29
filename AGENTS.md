@@ -23,12 +23,12 @@
 1. Обновить версию в `app/AndroidManifest.xml` и увеличить `versionCode`.
 2. Обновить `ROADMAP.md`.
 3. Собрать подписанный APK командой `python build.py`.
-4. Положить итоговый APK в корень репозитория с именем `MechanicCheck-<версия>.apk`.
-5. Обновить `latest.json`: имя APK, `versionName`, `versionCode`, размер, SHA-256 и описание изменений.
+4. Выполнить `python release.py prepare --notes "Описание изменений"`: команда копирует итоговый APK в корень и создаёт `latest.json` в формате, который читает установленное приложение.
+5. Перед публикацией выполнить `python release.py verify`. Обязательные имена полей `latest.json`: `schema`, `apk`, `versionName`, `versionCode`, `size`, `notes`, `sha256`, `minSdk`, `packageName`. Не заменять `apk` на `file` и `size` на `bytes`.
 6. Проверить `node --check app/assets/mechanic.js`, если менялся JavaScript.
-7. Проверить, что `latest.json` и APK доступны из удалённого GitHub Raw.
-8. Закоммитить исходники, `latest.json` и APK.
-9. Выполнить `git push origin master`.
+7. Закоммитить исходники, `latest.json` и APK.
+8. Выполнить `git push origin master`.
+9. Проверить, что `latest.json` и APK доступны из удалённого GitHub Raw и схема `latest.json` не изменилась.
 10. В ответе пользователю сообщить версию, факт загрузки на GitHub и ссылку на APK или репозиторий.
 
 Не считать задачу завершённой, пока готовая версия не загружена на GitHub, если пользователь явно не попросил оставить изменения только локально.

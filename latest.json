@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.60.apk",
-  "versionName": "1.60",
-  "versionCode": 61,
+  "apk": "MechanicCheck-1.61.apk",
+  "versionName": "1.61",
+  "versionCode": 62,
   "size": 246667,
-  "notes": "CHERY Tiggo 8 Pro Max: официальные масла и объёмы двигателя, DCT и AWD; ТО-1 — ТО-8 и точные финальные проверки.",
-  "sha256": "2e9c6ad06463a8e8559f264ad0b53c570c433c62e05adb0e8303beca7bb1450d",
+  "notes": "Восстановлена проверка обновлений для старых версий. TENET T4L: официальный регламент ТО-1 — ТО-8, масла двигателя, DCT и охлаждения.",
+  "sha256": "2800d86de0e145094bc1e6b366b1357b2c488960ce3e91e12e38d6e5ceb57a19",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
