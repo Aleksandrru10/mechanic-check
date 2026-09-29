@@ -1,8 +1,8 @@
 {
-  "file": "MechanicCheck-1.47.apk",
-  "versionName": "1.47",
-  "versionCode": 48,
+  "file": "MechanicCheck-1.48.apk",
+  "versionName": "1.48",
+  "versionCode": 49,
   "bytes": 242571,
-  "sha256": "ef863272168ffebcf55b3687888f609ad537da5e11203590888a3dca47212057",
-  "notes": "Добавлены официальные данные и отдельный регламент ТО-1 — ТО-8 для BESTUNE B70."
+  "sha256": "bfc81967cc32dd737a92c9cd61d5d051c5854202902d2df1e3a1dfc939cb1ae6",
+  "notes": "Точные жидкости и объёмы BESTUNE/FAW B70 New из официального руководства; уточнены пункты ТО."
 }
