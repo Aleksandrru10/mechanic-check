@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.62.apk",
-  "versionName": "1.62",
-  "versionCode": 63,
+  "apk": "MechanicCheck-1.63.apk",
+  "versionName": "1.63",
+  "versionCode": 64,
   "size": 246667,
-  "notes": "CHERY Tiggo 7 Plug-in Hybrid: официальный регламент ТО-1 — ТО-8, масло двигателя, жидкость DHT и два контура охлаждения; финальная проверка по фактическим операциям.",
-  "sha256": "50221a1922f032fc5d2fd35c1afbd310c87d678249783440430afde4a0d3cb26",
+  "notes": "Официальный регламент CHERY Tiggo 8 Plug-in Hybrid: ТО-1–ТО-8, масла и объёмы, проверка механика",
+  "sha256": "b1ae31388b0dc8d7e59b3828bf7541168a7dfca857508f9234d302737ad6d15c",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
