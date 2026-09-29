@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.75.apk",
-  "versionName": "1.75",
-  "versionCode": 76,
+  "apk": "MechanicCheck-1.76.apk",
+  "versionName": "1.76",
+  "versionCode": 77,
   "size": 254859,
-  "notes": "TENET A8: выбор Prime 1.6T/7DCT и Ultra 2.0T/8AT, ТО с явной сверкой сервисной книжки; TENET T9: данные ATF только для AWD; финальные проверки по фактическим операциям",
-  "sha256": "57e540fb52ea4f0254eed88135f215a0371cdffff05eb87b1e92895359eb2fe9",
+  "notes": "BESTUNE: обновлённые рекомендации по маслу для CA4GB15TD-30 и CA4GC20TD-36, калибровка 7DCT при каждом ТО, выбор 7DCT или 6MT для T77",
+  "sha256": "78bb74079a16d9f866d440658f5e878e05287587ee87f54c4316ddab35c87d7f",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
