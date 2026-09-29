@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.69.apk",
-  "versionName": "1.69",
-  "versionCode": 70,
+  "apk": "MechanicCheck-1.70.apk",
+  "versionName": "1.70",
+  "versionCode": 71,
   "size": 250763,
-  "notes": "JETOUR X50: выбор 1.5/5MT или 1.5T/6DCT, регламент ТО-1—ТО-8 по карте официального дилера, исправлены сведения о бензине и финальная проверка коробки",
-  "sha256": "d176c50d5b0a5e3ad665902f4c12366ffbdd4e1571ec16193345a7be87102b78",
+  "notes": "JETOUR X90+: три силовые установки, отдельные жидкости и интервалы 7DCT/8AT и полного привода, подробные ТО-1—ТО-8",
+  "sha256": "aa5794b8b50fb338fc0c523a26f6d64dbac7a127e94fc92804777bde74b9f952",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
