@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.83.apk",
-  "versionName": "1.83",
-  "versionCode": 84,
+  "apk": "MechanicCheck-1.84.apk",
+  "versionName": "1.84",
+  "versionCode": 85,
   "size": 258955,
-  "notes": "TENET T8: выбор 1.6T 2WD или 2.0T 4WD; масла, коробка и ТО по выбранной версии",
-  "sha256": "3eaa0f5145fb91f8ff9aa2381072c0959558ed95970eaa744407be08ba8f4d85",
+  "notes": "TENET T9: выбор типа полного привода; масла агрегатов и работы ТО по выбранному узлу",
+  "sha256": "6c20701b370db2d8a354cbefa593e56c48a3d85c15eb85e71bb263ba08425f20",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
