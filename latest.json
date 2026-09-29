@@ -1,8 +1,11 @@
 {
-  "file": "MechanicCheck-1.60.apk",
+  "schema": 1,
+  "apk": "MechanicCheck-1.60.apk",
   "versionName": "1.60",
   "versionCode": 61,
-  "bytes": 246667,
+  "size": 246667,
+  "notes": "CHERY Tiggo 8 Pro Max: официальные масла и объёмы двигателя, DCT и AWD; ТО-1 — ТО-8 и точные финальные проверки.",
   "sha256": "2e9c6ad06463a8e8559f264ad0b53c570c433c62e05adb0e8303beca7bb1450d",
-  "notes": "CHERY Tiggo 8 Pro Max: официальные масла и объёмы двигателя, DCT и AWD; ТО-1 — ТО-8 и точные финальные проверки."
+  "minSdk": 26,
+  "packageName": "ru.sash.mechaniccheck"
 }
