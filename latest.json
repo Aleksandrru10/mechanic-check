@@ -1,8 +1,8 @@
 {
-  "file": "MechanicCheck-1.57.apk",
-  "versionName": "1.57",
-  "versionCode": 58,
+  "file": "MechanicCheck-1.58.apk",
+  "versionName": "1.58",
+  "versionCode": 59,
   "bytes": 246667,
-  "sha256": "63bfa0d0086642962d2db6d35993402dd3740f62d93016df0661252c7e804683",
-  "notes": "CHERY Arrizo 8: официальные жидкости двигателя и 7DCT, фильтры и операции ТО-1 — ТО-8 по руководству."
+  "sha256": "dd02ea2cc0b4d05f49b259269c82f0bc2e4c48e3bd30774e6a8b179d9e9d96e5",
+  "notes": "CHERY Tiggo 4: официальные масла и объёмы двух двигателей; ТО-1 — ТО-8 и интервалы МКП, CVT и DCT по руководству."
 }
