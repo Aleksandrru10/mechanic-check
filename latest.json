@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.72.apk",
-  "versionName": "1.72",
-  "versionCode": 73,
+  "apk": "MechanicCheck-1.73.apk",
+  "versionName": "1.73",
+  "versionCode": 74,
   "size": 250763,
-  "notes": "JETOUR T2: выбор 7DCT или 8AT, отдельные ТО-1—ТО-8 и проверки полного привода",
-  "sha256": "a0fdb3be6378aaec9f7e3effe8e9ee0045766f34aa4038d6a3ba1e4221fbd385",
+  "notes": "JETOUR T1: отдельные ТО-1—ТО-8 для 2.0T 8AT XWD",
+  "sha256": "32a68698ce20654d312afaa2030dd8ac7090aa330e8d2a56ea648ada6eca6f3e",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
