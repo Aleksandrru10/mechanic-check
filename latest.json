@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.68.apk",
-  "versionName": "1.68",
-  "versionCode": 69,
+  "apk": "MechanicCheck-1.69.apk",
+  "versionName": "1.69",
+  "versionCode": 70,
   "size": 250763,
-  "notes": "Добавлен официальный регламент FAW/BESTUNE T99 для 8AT и 6AT; уточнены объёмы жидкостей и интервалы ТО.",
-  "sha256": "54b82bbad810cab4de67661c5ef599e78f9510a8d985f1799a9c225d3fe3f3ce",
+  "notes": "JETOUR X50: выбор 1.5/5MT или 1.5T/6DCT, регламент ТО-1—ТО-8 по карте официального дилера, исправлены сведения о бензине и финальная проверка коробки",
+  "sha256": "d176c50d5b0a5e3ad665902f4c12366ffbdd4e1571ec16193345a7be87102b78",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
