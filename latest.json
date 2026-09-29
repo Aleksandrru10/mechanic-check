@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.74.apk",
-  "versionName": "1.74",
-  "versionCode": 75,
-  "size": 250763,
-  "notes": "JETOUR DASHING: выбор 1.5T/6DCT или 1.6T/8AT/AWD, отдельные ТО-1—ТО-8",
-  "sha256": "1b82a015cf224f29d9047b604f2d4c7d987abed149dc4f79b1ea22b376a62df8",
+  "apk": "MechanicCheck-1.75.apk",
+  "versionName": "1.75",
+  "versionCode": 76,
+  "size": 254859,
+  "notes": "TENET A8: выбор Prime 1.6T/7DCT и Ultra 2.0T/8AT, ТО с явной сверкой сервисной книжки; TENET T9: данные ATF только для AWD; финальные проверки по фактическим операциям",
+  "sha256": "57e540fb52ea4f0254eed88135f215a0371cdffff05eb87b1e92895359eb2fe9",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
