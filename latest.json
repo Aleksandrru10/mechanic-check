@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.61.apk",
-  "versionName": "1.61",
-  "versionCode": 62,
+  "apk": "MechanicCheck-1.62.apk",
+  "versionName": "1.62",
+  "versionCode": 63,
   "size": 246667,
-  "notes": "Восстановлена проверка обновлений для старых версий. TENET T4L: официальный регламент ТО-1 — ТО-8, масла двигателя, DCT и охлаждения.",
-  "sha256": "2800d86de0e145094bc1e6b366b1357b2c488960ce3e91e12e38d6e5ceb57a19",
+  "notes": "CHERY Tiggo 7 Plug-in Hybrid: официальный регламент ТО-1 — ТО-8, масло двигателя, жидкость DHT и два контура охлаждения; финальная проверка по фактическим операциям.",
+  "sha256": "50221a1922f032fc5d2fd35c1afbd310c87d678249783440430afde4a0d3cb26",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
