@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.64.apk",
-  "versionName": "1.64",
-  "versionCode": 65,
+  "apk": "MechanicCheck-1.65.apk",
+  "versionName": "1.65",
+  "versionCode": 66,
   "size": 246667,
-  "notes": "FAW/BESTUNE T55: официальный регламент ТО-1–ТО-8, масла, фильтры, свечи и 7DCT",
-  "sha256": "a77f0847d721314a793c7a34762bd891f62c969b0a0b0d04875b9cb4cb6737ae",
+  "notes": "FAW/BESTUNE T77: официальный регламент ТО-1–ТО-8, масла, фильтры, свечи и жидкость 7DCT",
+  "sha256": "bb2fe157614799cdc4bdb181f7e6a3246487cb20c6fe61594763bb1dc3c74f6f",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
