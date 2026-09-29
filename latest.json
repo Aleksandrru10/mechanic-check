@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.79.apk",
-  "versionName": "1.79",
-  "versionCode": 80,
+  "apk": "MechanicCheck-1.80.apk",
+  "versionName": "1.80",
+  "versionCode": 81,
   "size": 254859,
-  "notes": "JETOUR T1 Гибрид: отдельная карточка и ТО-1—ТО-8 по сервисной книжке; убрана проверка полного привода для гибрида",
-  "sha256": "19b95066de548131b8dc0f8f9c2f378d0a86678bf3000915cf9eb25f8aca48ce",
+  "notes": "JETOUR X70: выбор 6DCT 626DHA или 6MT 6MF22A, удалены чужие интервалы коробок; ТО сверяется по сервисной книжке",
+  "sha256": "971cadd9dbd77a3b0db33d359a8e04f9f18e07a077c62ae8075261cc89f3cad1",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
