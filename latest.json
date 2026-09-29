@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.84.apk",
-  "versionName": "1.84",
-  "versionCode": 85,
+  "apk": "MechanicCheck-1.85.apk",
+  "versionName": "1.85",
+  "versionCode": 86,
   "size": 258955,
-  "notes": "TENET T9: выбор типа полного привода; масла агрегатов и работы ТО по выбранному узлу",
-  "sha256": "6c20701b370db2d8a354cbefa593e56c48a3d85c15eb85e71bb263ba08425f20",
+  "notes": "CHERY Tiggo 7L: выбор типа полного привода; масла агрегатов и ТО по выбранной системе",
+  "sha256": "acbbff38d76f167639b26738a2afd4bd6f0fe9ba50ea28bc35ab549fbed91d2f",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
