@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.77.apk",
-  "versionName": "1.77",
-  "versionCode": 78,
+  "apk": "MechanicCheck-1.78.apk",
+  "versionName": "1.78",
+  "versionCode": 79,
   "size": 254859,
-  "notes": "CHERY ARRIZO 8: уточнён актуальный двигатель SQRF4J16C, неподтверждённый объём масла убран; TIGGO 9: данные ATF только для AWD",
-  "sha256": "d86a99600cf11f973d1f6d057eed9f23e9f54f245d2ffd402291d9128ba64cb6",
+  "notes": "CHERY TIGGO 7L: выбор 2WD или 4WD, отдельные масла и проверки полного привода, уточнённый объём охлаждающей жидкости",
+  "sha256": "8b2a1085803cc53cb243f99e48bee7aa9f35297fb2991d86c2ffdab5e1a9ada8",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
