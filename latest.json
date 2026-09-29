@@ -1,8 +1,8 @@
 {
-  "file": "MechanicCheck-1.58.apk",
-  "versionName": "1.58",
-  "versionCode": 59,
+  "file": "MechanicCheck-1.59.apk",
+  "versionName": "1.59",
+  "versionCode": 60,
   "bytes": 246667,
-  "sha256": "dd02ea2cc0b4d05f49b259269c82f0bc2e4c48e3bd30774e6a8b179d9e9d96e5",
-  "notes": "CHERY Tiggo 4: официальные масла и объёмы двух двигателей; ТО-1 — ТО-8 и интервалы МКП, CVT и DCT по руководству."
+  "sha256": "92cde71c39d04ac7b184e8b67a9666d8110833da5455e1cf0a3bf31a6e9a6141",
+  "notes": "CHERY Tiggo 7 Pro Max: официальные масла и объёмы двигателя, DCT и AWD; ТО-1 — ТО-8 по руководству."
 }
