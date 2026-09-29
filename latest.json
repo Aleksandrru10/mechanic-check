@@ -1,8 +1,8 @@
 {
-  "file": "MechanicCheck-1.50.apk",
-  "versionName": "1.50",
-  "versionCode": 51,
+  "file": "MechanicCheck-1.51.apk",
+  "versionName": "1.51",
+  "versionCode": 52,
   "bytes": 242571,
-  "sha256": "2f0304c3e7cd16d59f8adfee28dc3fdb452a60c3a8af63d8b0333f6ff2a40d10",
-  "notes": "TENET T4: официальное моторное масло 4,7 ± 0,2 л и ТО-1 — ТО-8 по интервалам руководства."
+  "sha256": "63e6f78281b9beba5f88b8bd7111ca6e6ad0cb0145642730e4926a76a607c672",
+  "notes": "JETOUR DASHING: официальные объёмы и допуски масла для 1,5T и 1,6T, жидкость 6DCT260; уточнение по 8AT."
 }
