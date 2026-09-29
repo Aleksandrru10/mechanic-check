@@ -1,8 +1,8 @@
 {
-  "file": "MechanicCheck-1.49.apk",
-  "versionName": "1.49",
-  "versionCode": 50,
+  "file": "MechanicCheck-1.50.apk",
+  "versionName": "1.50",
+  "versionCode": 51,
   "bytes": 242571,
-  "sha256": "9bc132bfe21be5d3be5ffb2e2cef1ce59646728c334baa14d943a7bf51f62079",
-  "notes": "Исправлен официальный регламент TENET T8: DCT на ТО-6, свечи и топливный фильтр каждые 30 000 км, Fu Zhen AWD на ТО-5."
+  "sha256": "2f0304c3e7cd16d59f8adfee28dc3fdb452a60c3a8af63d8b0333f6ff2a40d10",
+  "notes": "TENET T4: официальное моторное масло 4,7 ± 0,2 л и ТО-1 — ТО-8 по интервалам руководства."
 }
