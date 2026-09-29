@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.73.apk",
-  "versionName": "1.73",
-  "versionCode": 74,
+  "apk": "MechanicCheck-1.74.apk",
+  "versionName": "1.74",
+  "versionCode": 75,
   "size": 250763,
-  "notes": "JETOUR T1: отдельные ТО-1—ТО-8 для 2.0T 8AT XWD",
-  "sha256": "32a68698ce20654d312afaa2030dd8ac7090aa330e8d2a56ea648ada6eca6f3e",
+  "notes": "JETOUR DASHING: выбор 1.5T/6DCT или 1.6T/8AT/AWD, отдельные ТО-1—ТО-8",
+  "sha256": "1b82a015cf224f29d9047b604f2d4c7d987abed149dc4f79b1ea22b376a62df8",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
