@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.63.apk",
-  "versionName": "1.63",
-  "versionCode": 64,
+  "apk": "MechanicCheck-1.64.apk",
+  "versionName": "1.64",
+  "versionCode": 65,
   "size": 246667,
-  "notes": "Официальный регламент CHERY Tiggo 8 Plug-in Hybrid: ТО-1–ТО-8, масла и объёмы, проверка механика",
-  "sha256": "b1ae31388b0dc8d7e59b3828bf7541168a7dfca857508f9234d302737ad6d15c",
+  "notes": "FAW/BESTUNE T55: официальный регламент ТО-1–ТО-8, масла, фильтры, свечи и 7DCT",
+  "sha256": "a77f0847d721314a793c7a34762bd891f62c969b0a0b0d04875b9cb4cb6737ae",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
