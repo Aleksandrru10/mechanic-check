@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.71.apk",
-  "versionName": "1.71",
-  "versionCode": 72,
+  "apk": "MechanicCheck-1.72.apk",
+  "versionName": "1.72",
+  "versionCode": 73,
   "size": 250763,
-  "notes": "JETOUR X70+: выбор кода 7DCT DF727A/738DHA, точные жидкости и интервалы ТО-1—ТО-8, исправлен объём бака",
-  "sha256": "17a1463013ac684c7e0ddd860c52f843373b0b97b814dde0d89b38afb08917ff",
+  "notes": "JETOUR T2: выбор 7DCT или 8AT, отдельные ТО-1—ТО-8 и проверки полного привода",
+  "sha256": "a0fdb3be6378aaec9f7e3effe8e9ee0045766f34aa4038d6a3ba1e4221fbd385",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
