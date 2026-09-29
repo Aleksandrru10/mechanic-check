@@ -1,8 +1,8 @@
 {
-  "file": "MechanicCheck-1.48.apk",
-  "versionName": "1.48",
-  "versionCode": 49,
+  "file": "MechanicCheck-1.49.apk",
+  "versionName": "1.49",
+  "versionCode": 50,
   "bytes": 242571,
-  "sha256": "bfc81967cc32dd737a92c9cd61d5d051c5854202902d2df1e3a1dfc939cb1ae6",
-  "notes": "Точные жидкости и объёмы BESTUNE/FAW B70 New из официального руководства; уточнены пункты ТО."
+  "sha256": "9bc132bfe21be5d3be5ffb2e2cef1ce59646728c334baa14d943a7bf51f62079",
+  "notes": "Исправлен официальный регламент TENET T8: DCT на ТО-6, свечи и топливный фильтр каждые 30 000 км, Fu Zhen AWD на ТО-5."
 }
