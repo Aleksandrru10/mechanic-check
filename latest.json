@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.65.apk",
-  "versionName": "1.65",
-  "versionCode": 66,
-  "size": 246667,
-  "notes": "FAW/BESTUNE T77: официальный регламент ТО-1–ТО-8, масла, фильтры, свечи и жидкость 7DCT",
-  "sha256": "bb2fe157614799cdc4bdb181f7e6a3246487cb20c6fe61594763bb1dc3c74f6f",
+  "apk": "MechanicCheck-1.66.apk",
+  "versionName": "1.66",
+  "versionCode": 67,
+  "size": 250763,
+  "notes": "Добавлен официальный регламент FAW/BESTUNE T90: выбор 1.5T 7DCT или 2.0T 8AT, масло, фильтры и жидкости для ТО-1 — ТО-8.",
+  "sha256": "aec460bd97cfb749ebaf15838f58d35e908a87c0cf5f8d8b5c3a4da036bbf56e",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
