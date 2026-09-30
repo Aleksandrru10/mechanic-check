@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.86.apk",
-  "versionName": "1.86",
-  "versionCode": 87,
+  "apk": "MechanicCheck-1.87.apk",
+  "versionName": "1.87",
+  "versionCode": 88,
   "size": 258955,
-  "notes": "TENET T7: выбор узла полного привода, отдельные масла и интервалы ТО; проверки после замены",
-  "sha256": "ffb17608f3054a1f3cf32ea9a25ffa29a199457ee44e924b61ec92f60d588b61",
+  "notes": "TENET T8: отдельный выбор коробки 730DHB/738DHA и узла полного привода; масла, объёмы, фильтры и интервалы ТО",
+  "sha256": "d705377ad70d467472efc5687785e7e69af1eaa689d869d5560188a2099751a0",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
