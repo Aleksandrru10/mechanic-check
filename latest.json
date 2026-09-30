@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.85.apk",
-  "versionName": "1.85",
-  "versionCode": 86,
+  "apk": "MechanicCheck-1.86.apk",
+  "versionName": "1.86",
+  "versionCode": 87,
   "size": 258955,
-  "notes": "CHERY Tiggo 7L: выбор типа полного привода; масла агрегатов и ТО по выбранной системе",
-  "sha256": "acbbff38d76f167639b26738a2afd4bd6f0fe9ba50ea28bc35ab549fbed91d2f",
+  "notes": "TENET T7: выбор узла полного привода, отдельные масла и интервалы ТО; проверки после замены",
+  "sha256": "ffb17608f3054a1f3cf32ea9a25ffa29a199457ee44e924b61ec92f60d588b61",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
