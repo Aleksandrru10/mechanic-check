@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.87.apk",
-  "versionName": "1.87",
-  "versionCode": 88,
+  "apk": "MechanicCheck-1.88.apk",
+  "versionName": "1.88",
+  "versionCode": 89,
   "size": 258955,
-  "notes": "TENET T8: отдельный выбор коробки 730DHB/738DHA и узла полного привода; масла, объёмы, фильтры и интервалы ТО",
-  "sha256": "d705377ad70d467472efc5687785e7e69af1eaa689d869d5560188a2099751a0",
+  "notes": "JETOUR X90+: отдельный выбор DF727A/738DHA, жидкости и интервалы выбранной коробки, объёмы охлаждения, проверки кондиционера и кузова. Код коробки сохраняется в работе и сбрасывается при смене автомобиля.",
+  "sha256": "455b5e5c77740a233c70f8d38293fe45d3537df320a12b5524aa4a22cbaf1a94",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
