@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.89.apk",
-  "versionName": "1.89",
-  "versionCode": 90,
+  "apk": "MechanicCheck-1.90.apk",
+  "versionName": "1.90",
+  "versionCode": 91,
   "size": 263051,
-  "notes": "ARRIZO 8: дополнен регламент ТО-1—8, сроки очистки дросселя и проверки углов колёс, возрастные замены шланга, проверки механика и сохранение отметок.",
-  "sha256": "4d4a012f43468fea59a52b5cb9c3734ff937e7672b4320483b20fe2c547b7ae3",
+  "notes": "TENET T4L и T9: дополнены ТО-1—8, осмотры и промежуточные сроки; масла и объёмы в операциях, возрастные шланги и проверки механика. Для T9 BorgWarner добавлена замена масел при тяжёлых условиях.",
+  "sha256": "f9a4f89fa8bd9ddfb7aac37b3cec5c770a60e9bf83d97672a72ec5e1a053b942",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
