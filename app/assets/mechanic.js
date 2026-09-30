@@ -62,9 +62,9 @@ tiggo7lInfo.variantItems={
  '2wd':['Передний привод: без раздаточной коробки и заднего редуктора'],
  '4wd':['Полный привод: код агрегатов AWD уточнить по VIN перед подбором масел',...tiggo7lAwdItems],
  '4wd_zf':['Установлен ZF AWD: плановая замена масел раздатки и заднего редуктора не требуется',...tiggo7lAwdItems.filter(item=>item.startsWith('ZF AWD:'))],
- '4wd_fuzhen':['Установлен Fu Zhen AWD: масла раздатки и заднего редуктора менять через 160 000 км в обычных условиях или через 38 000 км в тяжёлых',...tiggo7lAwdItems.filter(item=>item.startsWith('Fu Zhen AWD:'))],
+ '4wd_fuzhen':['Установлен Fu Zhen AWD: руководство даёт сроки 160 000 и 38 000 км, но формулировки дорожных условий неоднозначны; применимый срок подтвердить по сервисной книжке',...tiggo7lAwdItems.filter(item=>item.startsWith('Fu Zhen AWD:'))],
  '4wd_gkn':['Установлен GKN AWD: плановая замена масел раздатки и заднего редуктора не требуется',...tiggo7lAwdItems.filter(item=>item.startsWith('GKN AWD:'))],
- '4wd_borg':['Установлен BorgWarner AWD: масла раздатки и заднего редуктора менять через 160 000 км в обычных условиях или через 38 000 км в тяжёлых; жидкость устройства передачи момента — через 60 000 км',...tiggo7lAwdItems.filter(item=>item.startsWith('BorgWarner AWD:'))]
+ '4wd_borg':['Установлен BorgWarner AWD: руководство даёт сроки масел 160 000 и 38 000 км, но формулировки дорожных условий неоднозначны; применимый срок подтвердить по сервисной книжке. Жидкость устройства передачи момента — через 60 000 км',...tiggo7lAwdItems.filter(item=>item.startsWith('BorgWarner AWD:'))]
 };
 tiggo7lInfo.source+='; актуальная модель: https://www.chery.ru/models/tiggo7l/';
 vehicleSpecs['chery:tiggo8pm']={title:'CHERY TIGGO 8 PRO MAX — данные официального руководства',source:'руководство CHERY «Новый Tiggo 8 Pro Max», раздел 7, стр. 302–309; https://1.cdn.perxis.ru/originals/d6slujqto5r7ch3upa5g/original',items:['SQRF4J16: Castrol SN/SP 5W-30 — 4,3 ± 0,2 л моторного масла с заменой фильтра','SQRF4J20: Fuchs C5 0W-20 — 4,0 ± 0,1 л моторного масла с заменой фильтра','DCT 730DHB/DHC: Sinopec DCTF-GS — 4,25 ± 0,2 л; замена каждые 60 000 км','DCT 738DHA: Kunlun DCTF-7S — 6,5 ± 0,2 л; жидкость и фильтр коробки менять каждые 60 000 км','Для AWD: раздаточная коробка Castrol SAF PD — 0,4 ± 0,015 л; задний дифференциал SAF CARBON MOD — 0,6 ± 0,02 л; плановая замена не требуется','Охлаждающая жидкость LEC-II — 7,5 ± 0,5 л; тормозная жидкость DOT4','На каждом ТО: моторное масло с фильтром и фильтр кондиционера; воздушный фильтр двигателя проверять и менять по состоянию','Свечи и внешний топливный фильтр — каждые 30 000 км; тормозная и охлаждающая жидкости — каждые 2 года или 40 000 км','Обычный интервал ТО — 12 месяцев или 10 000 км; при тяжёлых условиях — 6 месяцев или 5 000 км']};
@@ -92,9 +92,20 @@ tenetT7Info.variantItems={
  '4wd_zf':['ZF AWD: плановая замена масел не требуется',...tenetT7AwdItems.filter(item=>item.startsWith('ZF AWD:'))],
  '4wd_fuzhen':['Fu Zhen AWD: масла раздатки и заднего редуктора менять каждые 50 000 км',...tenetT7AwdItems.filter(item=>item.startsWith('Fu Zhen AWD:')),'Раздатка Fu Zhen: при отсутствии наружных течей руководство требует заливать столько же масла, сколько было слито; указанная ёмкость справочная'],
  '4wd_sds':['SDS AWD: плановая замена масел не требуется',...tenetT7AwdItems.filter(item=>item.startsWith('SDS AWD:'))],
- '4wd_borg':['BorgWarner AWD: масла раздатки и заднего редуктора менять через 160 000 км в обычных условиях или через 38 000 км в тяжёлых; жидкость устройства передачи момента — каждые 60 000 км',...tenetT7AwdItems.filter(item=>item.startsWith('BorgWarner AWD:'))]
+ '4wd_borg':['BorgWarner AWD: руководство даёт сроки масел 160 000 и 38 000 км, но формулировки дорожных условий неоднозначны; применимый срок подтвердить по сервисной книжке. Жидкость устройства передачи момента — каждые 60 000 км',...tenetT7AwdItems.filter(item=>item.startsWith('BorgWarner AWD:'))]
 };
 tenetT7Info.source+='; https://1.cdn.perxis.ru/originals/d8kn43ato5r7ch4mul20/original, стр. 255–262; актуальные комплектации: https://tenet.ru/models/t7/';
+tenetT8Info.source='руководство TENET T8, стр. 255–264: https://1.cdn.perxis.ru/originals/d6fv5dito5ra7i056qhg/original; https://tenet.ru/models/t8/; https://tenet.ru/owners/warranty/';
+tiggo7lInfo.items.push('Первое обслуживание: через 2 месяца или 5 000 км, отдельно от плановых ТО-1 — ТО-8');
+tenetT7Info.items.push('Внешний топливный фильтр и свечи 3707AAG — каждые 30 000 км. Цепь ГРМ без плановой замены, обслуживание при неисправности');
+tiggo7lInfo.items.push('Свечи 3707AAG; цепь ГРМ без плановой замены, обслуживание при неисправности');
+for(const info of [tenetT7Info,tenetT8Info,tiggo7lInfo]){
+ info.items.push('В тяжёлых условиях обслуживание и моторное масло — каждые 5 000 км или 6 месяцев; при запылённости воздушный и салонный фильтры менять чаще');
+ info.items.push('Дроссель: очистка рекомендуется каждые 15 000 км, включая промежуточные пробеги; углы всех четырёх колёс — проверка каждые 20 000 км');
+ info.items.push('Фильтр адсорбера при наличии — через 3 года или 60 000 км; шланг адсорбера — через 10 лет или 500 000 км');
+ info.items.push('Шланг заливной горловины: стандартный каучук NBR+PVC/CSM — 5 лет или 200 000 км; фторкаучук — 10 лет или 500 000 км. Материал и артикул определить по автомобилю');
+ info.items.push('Ёмкости агрегатов справочные. При отсутствии течей коробки учитывать слитый объём; фактическую заливку и уровень выполнять по сервисной процедуре. Артикулы всех фильтров, свечей и шлангов подбирать по VIN');
+}
 vehicleSpecs['tenet:t4l']={"title":"TENET T4L — данные официального руководства","source":"руководство TENET T4L, стр. 199–206; https://1.cdn.perxis.ru/originals/d8kn2rqto5r7ch4mul1g/original; текущие комплектации: https://tenet.ru/models/t4l/; предел интервала TENET: https://tenet.ru/owners/warranty/","items":["SQRE4T15C: моторное масло 4,7 ± 0,2 л с заменой масляного фильтра","Для интервала 10 000 км руководство допускает Lukoil SN 5W-40, Total SN+/SP 5W-30, Shell SN+ 5W-30 и Shell SN 5W-40","Castrol SN/SP 5W-30 также указан в таблице масла; предел планового ТО TENET остаётся 10 000 км или 365 дней","DCT 626DHA: DCTF-GS — 4,0 ± 0,2 л; замена каждые 60 000 км","Охлаждающая жидкость OAT — 9 л; тормозная жидкость DOT4; обе замены каждые 2 года или 40 000 км","На каждом ТО: моторное масло с фильтром, воздушный и салонный фильтры","Свечи зажигания 3707AAG и внешний топливный фильтр — каждые 30 000 км","DCTF-GS: ёмкость коробки справочная; без утечек учитывать объём слива, фактическую заливку и уровень выполнять по сервисной процедуре","Российские комплектации: SQRE4T15C 1.5T, 6DCT и 2WD с электроусилителем; работы раздатки, заднего дифференциала и гидроусилителя не назначаются","Первое обслуживание: через 2 месяца или 5 000 км. В тяжёлых условиях обслуживание и моторное масло — каждые 6 месяцев или 5 000 км; при запылённости фильтры менять чаще","Дроссель: рекомендуемая очистка каждые 15 000 км, включая промежуточные пробеги; углы всех четырёх колёс — проверка каждые 20 000 км","Фильтр адсорбера при наличии: замена через 3 года или 60 000 км. Цепь ГРМ без плановой замены, обслуживание при неисправности","Шланг заливной горловины: NBR+PVC/CSM — 5 лет или 200 000 км; фторкаучук — 10 лет или 500 000 км. Материал и артикул определить по автомобилю","Шланг адсорбера: в руководстве напечатано 40 000 км или 10 лет; необычный интервал требует сверки с сервисной книжкой именно T4L, не заменять его сроком другой модели","Артикулы масляного, воздушного, салонного и топливного фильтров, свечей и шлангов подбирать по VIN"]};
 const brandModels={
  jetour:{t1:'T1',t1hybrid:'T1 Гибрид',t2:'T2',dashing:'DASHING',x50:'X50',x70:'X70',x70plus:'X70+',x90plus:'X90+'},
@@ -169,18 +180,41 @@ Object.assign(modelServiceNotes,{
 modelServiceNotes['bestune:t90'][7]=['Для 1.5T DCT заменить жидкость BOT351C4 и фильтр: 5,7 ± 0,1 л при совместной замене','Для 2.0T 8AT использовать только AW-1 и менять только по необходимости'];modelServiceNotes['faw:t90']=modelServiceNotes['bestune:t90'];
 modelServiceNotes['bestune:t99']={1:['Первое ТО: заменить моторное масло и масляный фильтр на 5 000 км или 6 мес','Проверить уровни жидкостей и отсутствие течей'],2:['Масло и масляный фильтр: каждые 10 000 км или 12 мес','Фильтр кондиционера: 12 мес или 20 000 км'],3:['Проверить/заменить тормозную жидкость по интервалу 24 мес','Проверить свечи, охлаждение, тормоза и ходовую часть'],4:['Масло и масляный фильтр по годовому интервалу','Проверить 6AT или 8AT и отсутствие течей'],5:['Проверить охлаждающую жидкость и тормозную систему','Проверить трансмиссию, приводы и крепёж'],6:['8AT: первая замена по 2 годам/40 000 км, далее каждые 3 года/60 000 км','6AT: проверка ежегодно/20 000 км'],7:['Масло и фильтры по межсервисному интервалу','Проверить свечи, тормоза, подвеску и уровни жидкостей'],8:['Провести расширенный осмотр двигателя и коробки','Проверить все фильтры, жидкости, течи и электронные системы']};modelServiceNotes['faw:t99']=modelServiceNotes['bestune:t99'];
 modelServiceNotes['tenet:t4']={1:['Заменить моторное масло и масляный фильтр','Проверить коробку по коду комплектации и отсутствие течей'],2:['Заменить фильтр кондиционера и проверить воздушный фильтр','Проверить охлаждение, тормоза и трансмиссию'],3:['Проверить/заменить тормозную и охлаждающую жидкости по сроку','Проверить свечи, приводы и ходовую часть'],4:['Проверить CVT/DCT/MT и уровни жидкостей','Для AWD проверить раздаточную коробку и задний редуктор'],5:['Проверить фильтры, ремни, патрубки и аккумулятор','Проверить тормоза, рулевое управление и подвеску'],6:['Проверить жидкости коробки и агрегатов AWD','Проверить свечи, тормозную систему и отсутствие течей'],7:['Проверить фильтры и систему охлаждения','Проверить крепёж, шины, приводы и трансмиссию'],8:['Провести расширенный осмотр двигателя и коробки','Проверить все уровни жидкостей, течи и электронные системы']};
+// TENET T7: стр. 255–260; T8: 256–261; CHERY TIGGO 7L: 249–254.
+// Различающиеся агрегаты и замены остаются в регламенте конкретной модели.
+function tenetCherySupplementaryChecks(n,{driveNut=false,chain=false}={}){
+ const work=[
+  'Проверить приборную панель, мультимедиа и систему бортовой диагностики',
+  'Проверить передний и задний стеклоочистители, омыватели, отопление, вентиляцию и кондиционер',
+  'Измерить температуру замерзания антифриза и содержание влаги в тормозной жидкости',
+  'Проверить напряжение аккумуляторной батареи; замена только при неисправности',
+  'Проверить амортизаторы, рулевую колонку, рулевые тяги, наконечники и защитные чехлы',
+  'Проверить давление в шинах, включая запасное колесо; оценить износ протектора',
+  'Переставить колёса по схеме руководства и с учётом шин (рекомендация: не реже 10 000 км, оптимально 5 000–7 000 км)',
+  'Проверить масляный поддон и герметичность сливной пробки, корпус коробки, тормозные и топливные трубопроводы, электропроводку'
+ ];
+ if(driveNut)work.push('Проверить стопорные гайки приводов и момент затяжки колёсного крепежа');
+ if(chain)work.push('Цепь ГРМ планово не менять; обслуживание требуется при неисправности');
+ if(n>=2)work.push('Если прошло 15 000 км с последней очистки: очистить дроссельную заслонку по процедуре; учитывать промежуточные пробеги 15 000, 45 000 и 75 000 км');
+ if(n%2===0)work.push('Проверить углы установки всех четырёх колёс и при необходимости отрегулировать (каждые 20 000 км)');
+ if(n===3||n===6)work.push('Если установлен угольный фильтр адсорбера: заменить, когда прошло 3 года или 60 000 км');
+ if(n>=5)work.push('Определить материал шланга заливной горловины бака: если стандартный каучук NBR+PVC/CSM и прошло 5 лет или 200 000 км — заменить; для фторкаучука срок 10 лет или 500 000 км');
+ work.push('В тяжёлых условиях масло и обслуживание — каждые 5 000 км или 6 месяцев; при запылённости чаще менять воздушный и салонный фильтры');
+ return work;
+}
 function tenetT7Service(service,variant){
  const n=Number(service), km=n*10000;
  if(!Number.isInteger(n)||n<1||n>8||!['2wd','4wd','4wd_zf','4wd_fuzhen','4wd_sds','4wd_borg'].includes(variant))return ['Выберите двигатель, коробку и привод T7',[]];
  const awd=variant!=='2wd';
- const work=['Заменить моторное масло SQRF4J16 (4,0 ± 0,2 л с фильтром; 5W-30 SM/SN/SP или 0W-30 SM и выше по температуре) и масляный фильтр','Заменить воздушный фильтр двигателя','Заменить фильтр кондиционера','Проверить уровни и состояние рабочих жидкостей','Проверить тормозные колодки, диски, шланги и стояночный тормоз','Проверить подвеску, рулевое управление, приводы, шины и крепёж','Проверить состояние DCT и отсутствие течей'];
+ const work=['Заменить моторное масло SQRF4J16 (4,0 ± 0,2 л с фильтром; при температуре ≥ −30 °C SM/SN/SP 5W-30 либо SM и выше 0W-30, ниже −30 °C — SM и выше 0W-30) и масляный фильтр','Заменить воздушный фильтр двигателя','Заменить фильтр кондиционера','Проверить уровни и состояние моторного масла, охлаждающей и тормозной жидкостей','Проверить тормозные колодки, диски, шланги и стояночный тормоз','Проверить подвеску, рулевое управление, карданный и приводные валы, шины и крепёж','Проверить свечи 3707AAG и ремень навесных агрегатов','Проверить уровень жидкости DCT 730DHB/DHC и отсутствие течей',...tenetCherySupplementaryChecks(n,{driveNut:true,chain:true})];
  if(n%2===0){work.push('Заменить тормозную жидкость DOT4 по сроку 2 года / 40 000 км');work.push('Заменить охлаждающую жидкость по сроку 2 года / 40 000 км; тип и объём для SQRF4J16 подтвердить по VIN');}
- if(n%3===0)work.push('Заменить свечи зажигания и внешний топливный фильтр');
+ if(n%3===0)work.push('Заменить свечи зажигания 3707AAG и внешний топливный фильтр (каждые 30 000 км)');
  if(awd)work.push('Проверить герметичность раздаточной коробки и заднего редуктора'+(variant==='4wd'?'; тип агрегатов подтвердить по VIN':''));
- if(n===5&&['4wd','4wd_fuzhen'].includes(variant))work.push((variant==='4wd'?'Если установлен Fu Zhen AWD: ':'')+'Заменить масла раздатки Fu Zhen TITAN EG 3201 (справочно 0,335–0,38 л; при отсутствии течей залить столько, сколько слито) и заднего редуктора Castrol SAF CARBON MOD (0,55 ± 0,05 л); каждые 50 000 км');
- if(n>=4&&['4wd','4wd_borg'].includes(variant))work.push((variant==='4wd'?'Если установлен BorgWarner AWD и ':'Если ')+'в тяжёлых условиях прошло 38 000 км с последней замены: заменить масло раздатки BorgWarner SAE 80W-90 (0,31 ± 0,03 л) и заднего редуктора (0,44 ± 0,03 л)');
+ if(n>=5&&['4wd','4wd_fuzhen'].includes(variant))work.push((variant==='4wd'?'Если установлен Fu Zhen AWD и ':'Если ')+'прошло 50 000 км с последней замены: заменить масла раздатки Fu Zhen TITAN EG 3201 (справочно 0,335–0,38 л; при отсутствии течей залить столько, сколько слито) и заднего редуктора Castrol SAF CARBON MOD (0,55 ± 0,05 л)');
+ if(['4wd','4wd_borg'].includes(variant))work.push('Для BorgWarner AWD руководство даёт сроки масел 160 000 и 38 000 км с неоднозначными формулировками дорожных условий; применимый интервал подтвердить по сервисной книжке');
+ if(n>=4&&['4wd','4wd_borg'].includes(variant))work.push((variant==='4wd'?'Если установлен BorgWarner AWD, ':'Если ')+'по сервисной книжке применяется срок 38 000 км и он наступил с последней замены: заменить масло раздатки BorgWarner SAE 80W-90 (0,31 ± 0,03 л) и заднего редуктора (0,44 ± 0,03 л)');
  if(n>=6&&['4wd','4wd_borg'].includes(variant))work.push((variant==='4wd'?'Если установлен BorgWarner AWD и ':'Если ')+'прошло 60 000 км с последней замены: заменить жидкость устройства передачи момента Castrol HALBOT311 (0,63 ± 0,03 л)');
- if(n===6)work.push('Заменить жидкость DCT 730DHB/DHC (60 000 км; 4,25 ± 0,2 л Sinopec DCTF-GS)');
+ if(n>=6)work.push('Если прошло 60 000 км с последней замены: заменить жидкость DCT 730DHB/DHC Sinopec DCTF-GS; справочная ёмкость 4,25 ± 0,2 л. Без утечек учитывать объём слива; фактическую заливку и уровень выполнять по процедуре');
  return ['ТО-'+n+' · '+km.toLocaleString('ru-RU')+' км / '+(n*12)+' мес',work];
 }
 function tenetT8Service(service,variant,gearboxCode='unknown'){
@@ -188,17 +222,17 @@ function tenetT8Service(service,variant,gearboxCode='unknown'){
  if(!Number.isInteger(n)||n<1||n>8||!['16dct2wd','20dct4wd','20dct4wd_zf','20dct4wd_fuzhen','20dct4wd_sds','20dct4wd_borg'].includes(variant))return ['Выберите двигатель и привод T8',[]];
  if(!['unknown','730dhb','738dha'].includes(gearboxCode))return ['Выберите код коробки T8',[]];
  const awd=variant.startsWith('20dct4wd'),unknownAwd=variant==='20dct4wd';
- const oil=awd?'Заменить моторное масло C5 0W-20 (4,5 ± 0,2 л) и масляный фильтр SQRF4J20':'Заменить моторное масло SQRF4J16C (4,0 ± 0,2 л) и масляный фильтр; 5W-30 SM/SN/SP, 0W-30 SM и выше или C5 0W-20 по температуре';
- const work=[oil,'Заменить воздушный фильтр двигателя и фильтр кондиционера','Проверить уровни рабочих жидкостей и отсутствие течей','Проверить тормоза, подвеску, рулевое управление, приводы, шины и момент затяжки колёс','Проверить уровень и состояние жидкости 7DCT'+(gearboxCode==='unknown'?'; код коробки подтвердить по VIN':' '+gearboxCode.toUpperCase())];
+ const oil=awd?'Заменить моторное масло C5 0W-20 (4,5 ± 0,2 л) и масляный фильтр SQRF4J20':'Заменить моторное масло SQRF4J16C (4,0 ± 0,2 л) и масляный фильтр; при температуре ≥ −30 °C SM/SN/SP 5W-30, SM и выше 0W-30 или C5 0W-20, ниже −30 °C — SM и выше 0W-30 или C5 0W-20';
+ const work=[oil,'Заменить воздушный фильтр двигателя и фильтр кондиционера','Проверить уровни моторного масла, охлаждающей и тормозной жидкостей, отсутствие течей','Проверить свечи, тормоза, подвеску, рулевое управление, карданный и приводные валы, шины и момент затяжки колёс','Проверить уровень и состояние жидкости 7DCT'+(gearboxCode==='unknown'?'; код коробки подтвердить по VIN':' '+gearboxCode.toUpperCase()),...tenetCherySupplementaryChecks(n,{driveNut:true})];
  if(awd)work.push('Проверить герметичность раздаточной коробки и заднего редуктора'+(unknownAwd?'; тип агрегатов определить по VIN':''));
  if(n%2===0){work.push('Заменить тормозную жидкость DOT4: каждые 2 года или 40 000 км');work.push(awd?'Заменить охлаждающую жидкость OAT (справочно 7,5 л): каждые 2 года или 40 000 км':'Заменить охлаждающую жидкость: каждые 2 года или 40 000 км; тип и объём для SQRF4J16C подтвердить по VIN');}
  if(n%3===0)work.push('Заменить свечи зажигания и внешний топливный фильтр: каждые 30 000 км');
- if(n===5&&(unknownAwd||variant==='20dct4wd_fuzhen'))work.push((unknownAwd?'Если установлен Fu Zhen AWD: ':'')+'Заменить масло раздаточной коробки Fu Zhen TITAN EG 3201 (справочно 0,335–0,38 л; при отсутствии течей залить столько, сколько слито) и заднего редуктора Castrol SAF CARBON MOD (0,55 ± 0,05 л); каждые 50 000 км');
+ if(n>=5&&(unknownAwd||variant==='20dct4wd_fuzhen'))work.push((unknownAwd?'Если установлен Fu Zhen AWD и ':'Если ')+'прошло 50 000 км с последней замены: заменить масло раздаточной коробки Fu Zhen TITAN EG 3201 (справочно 0,335–0,38 л; при отсутствии течей залить столько, сколько слито) и заднего редуктора Castrol SAF CARBON MOD (0,55 ± 0,05 л)');
  if(n>=4&&(unknownAwd||variant==='20dct4wd_borg'))work.push((unknownAwd?'Если установлен BorgWarner AWD и ':'Если ')+'в тяжёлых условиях прошло 38 000 км с последней замены: заменить масло раздатки BorgWarner SAE 80W-90 (0,31 ± 0,03 л) и заднего редуктора (0,44 ± 0,03 л)');
  if(n>=6&&(unknownAwd||variant==='20dct4wd_borg'))work.push((unknownAwd?'Если установлен BorgWarner AWD и ':'Если ')+'прошло 60 000 км с последней замены: заменить жидкость устройства передачи крутящего момента Castrol HALBOT311 (0,63 ± 0,03 л)');
- if(n===6){
-  if(gearboxCode==='unknown')work.push('Заменить жидкость 7DCT DCTF-GS: для 730DHB справочная ёмкость 5 л, для 738DHA — 6 л и наружный фильтр; код коробки подтвердить по VIN');
-  else work.push('Заменить жидкость 7DCT '+gearboxCode.toUpperCase()+' DCTF-GS (справочно '+(gearboxCode==='730dhb'?'5':'6')+' л)'+(gearboxCode==='738dha'?' и наружный фильтр':'')+'; каждые 60 000 км, фактический объём — по сервисной процедуре');
+ if(n>=6){
+  if(gearboxCode==='unknown')work.push('Если прошло 60 000 км с последней замены: заменить жидкость 7DCT DCTF-GS: для 730DHB справочная ёмкость 5 л, для 738DHA — 6 л и наружный фильтр; код коробки подтвердить по VIN, без утечек учитывать слитый объём и выставить уровень по процедуре');
+  else work.push('Если прошло 60 000 км с последней замены: заменить жидкость 7DCT '+gearboxCode.toUpperCase()+' DCTF-GS (справочно '+(gearboxCode==='730dhb'?'5':'6')+' л)'+(gearboxCode==='738dha'?' и наружный фильтр':'')+'; без утечек учитывать объём слива, фактическая заливка и уровень — по сервисной процедуре');
  }
  return ['ТО-'+n+' · '+km.toLocaleString('ru-RU')+' км / '+(n*12)+' мес',work];
 }
@@ -515,6 +549,7 @@ function tenetT9Service(service,variant){
 function cheryTiggo7LService(service,variant){
  if(!['2wd','4wd','4wd_zf','4wd_fuzhen','4wd_gkn','4wd_borg'].includes(variant))return ['Выберите привод и тип AWD',[]];
  const n=Number(service),km=n*10000;
+ if(!Number.isInteger(n)||n<1||n>8)return ['Выберите регламент TIGGO 7L',[]];
  const work=[
   'Заменить моторное масло SQRF4J16 4,0 ± 0,2 л и масляный фильтр; при температуре ≥ −30 °C SM/SN/SP 5W-30 либо SM и выше 0W-30, ниже −30 °C — SM и выше 0W-30',
   'Заменить воздушный фильтр двигателя и фильтр кондиционера',
@@ -522,7 +557,8 @@ function cheryTiggo7LService(service,variant){
   'Проверить свечи зажигания, уровень жидкости DCT 730DHB/DHC и отсутствие течей',
   'Проверить тормозные колодки и диски, подвеску, рулевое управление, приводы и шины',
   'Проверить затяжку колёсного крепежа, приводной ремень, трубопроводы и электропроводку',
-  'Проверить аккумулятор, освещение, стеклоочистители, отопление и кондиционер'
+  'Проверить освещение',
+  ...tenetCherySupplementaryChecks(n,{chain:true})
  ];
  if(n%2===0)work.push('Заменить охлаждающую жидкость (тип и объём для SQRF4J16 подтвердить по VIN) и тормозную жидкость DOT4, если прошло 2 года или 40 000 км с последней замены');
  if(n%3===0){work.push('Заменить свечи зажигания 3707AAG (каждые 30 000 км)');work.push('Заменить внешний топливный фильтр (каждые 30 000 км)');}
@@ -531,13 +567,12 @@ function cheryTiggo7LService(service,variant){
   work.push('Проверить герметичность раздаточной коробки и заднего редуктора');
   if(variant==='4wd')work.push('Сверить по VIN тип раздаточной коробки и заднего редуктора перед применением допуска и объёма масла');
   if(n>=6&&['4wd','4wd_borg'].includes(variant))work.push((variant==='4wd'?'Если установлен BorgWarner 4WD и ':'Если ')+ 'прошло 60 000 км: заменить жидкость устройства передачи момента Castrol HALBOT311 (0,63 ± 0,03 л)');
-  if(['4wd','4wd_fuzhen','4wd_borg'].includes(variant))work.push('Для '+({'4wd':'Fu Zhen или BorgWarner','4wd_fuzhen':'Fu Zhen','4wd_borg':'BorgWarner'}[variant])+' 4WD: сверить срок замены масел раздатки и заднего редуктора — 160 000 км в обычных условиях, 38 000 км в тяжёлых');
-  if(n>=4&&variant==='4wd_fuzhen')work.push('Если тяжёлые условия и с последней замены прошло 38 000 км: заменить масло раздатки Fu Zhen FUCHS TITAN EG 3202 (0,4 ± 0,02 л) и заднего редуктора Castrol SAF CARBON MOD (0,6 ± 0,02 л)');
-  if(n>=4&&variant==='4wd_borg')work.push('Если тяжёлые условия и с последней замены прошло 38 000 км: заменить масло раздатки BorgWarner SAE 80W-90 (0,31 ± 0,03 л) и заднего редуктора SAE 80W-90 (0,44 ± 0,03 л)');
-  if(n>=4&&variant==='4wd')work.push('Если установлен Fu Zhen или BorgWarner AWD и тяжёлые условия: проверить замену масел раздатки и заднего редуктора через 38 000 км; тип и жидкости подтвердить по VIN');
+  if(['4wd','4wd_fuzhen','4wd_borg'].includes(variant))work.push('Для '+({'4wd':'Fu Zhen или BorgWarner','4wd_fuzhen':'Fu Zhen','4wd_borg':'BorgWarner'}[variant])+' 4WD: руководство даёт сроки масел 160 000 и 38 000 км с неоднозначными формулировками дорожных условий; применимый интервал подтвердить по сервисной книжке');
+  if(n>=4&&variant==='4wd_fuzhen')work.push('Если по сервисной книжке применяется срок 38 000 км и он наступил с последней замены: заменить масло раздатки Fu Zhen FUCHS TITAN EG 3202 (0,4 ± 0,02 л) и заднего редуктора Castrol SAF CARBON MOD (0,6 ± 0,02 л)');
+  if(n>=4&&variant==='4wd_borg')work.push('Если по сервисной книжке применяется срок 38 000 км и он наступил с последней замены: заменить масло раздатки BorgWarner SAE 80W-90 (0,31 ± 0,03 л) и заднего редуктора SAE 80W-90 (0,44 ± 0,03 л)');
+  if(n>=4&&variant==='4wd')work.push('Если установлен Fu Zhen или BorgWarner AWD и по сервисной книжке применяется срок 38 000 км: проверить наступление замены масел раздатки и заднего редуктора; тип, жидкости и объём подтвердить по VIN');
   if(['4wd','4wd_zf','4wd_gkn'].includes(variant))work.push('Для '+({'4wd':'ZF или GKN','4wd_zf':'ZF','4wd_gkn':'GKN'}[variant])+' 4WD: проверить герметичность агрегатов; плановая замена масел не требуется');
  }
- if(n===3||n===6)work.push('Если установлен угольный фильтр адсорбера: заменить при сроке 3 года или 60 000 км');
  return ['ТО-'+n+' · '+km.toLocaleString('ru-RU')+' км / '+(n*12)+' мес',work];
 }
 function cheryTiggo9Service(service){
@@ -818,12 +853,12 @@ const finalBox=document.createElement('section');finalBox.className='card';final
   common.push('Внешний фильтр DHT и сливная пробка установлены и затянуты; течей нет');
  }else if(!hybrid&&(!/X50/i.test(model)||current.variant==='15dct')&&(!/X90\+/i.test(model)||current.variant!=='20at')&&/DCT|X50|X70\+|X90\+|T4L|T55|T77|T90|B70|Tiggo 4|Tiggo 7|Tiggo 8|Arrizo 8/i.test(model)&&hasOperation(/заменить.*(?:жидкост|масл).*(?:DCT|коробк)|заменить.*фильтр.*(?:DCT|коробк)/i)){
   common.push('Проверена правильная жидкость роботизированной коробки и её объём');
-  common.push(/X70\+|X90\+|Arrizo 8|T4L/i.test(model)?'Сливная пробка коробки установлена и затянута; если снимали фильтр, он установлен правильно':'Фильтр и сливная пробка коробки установлены и затянуты');
+  common.push(/X70\+|X90\+|Arrizo 8|T4L|Tiggo 7L/i.test(model)?'Сливная пробка коробки установлена и затянута; если снимали фильтр, он установлен правильно':'Фильтр и сливная пробка коробки установлены и затянуты');
   common.push('Разъёмы коробки и датчики подключены, течей нет');
  }
  if(/X90\+/i.test(model)&&current.variant==='20at'&&hasOperation(/заменить ATF/i))common.push('Жидкость 8AT подобрана по коду коробки, уровень выставлен по процедуре, течей нет');
- if(/Arrizo 8|T4L|^T9$/i.test(model)&&hasOperation(/очистить дроссельную заслонку/i))common.push('Если очищали дроссель: патрубок и хомуты закреплены, разъём подключён');
- if(/Arrizo 8|T4L|^T9$/i.test(model)&&hasOperation(/шланга заливной горловины.*заменить/i))common.push('Если меняли шланг заливной горловины: соединения и хомуты закреплены, утечек топлива нет');
+ if(/Arrizo 8|T4L|^T[789]$|Tiggo 7L/i.test(model)&&hasOperation(/очистить дроссельную заслонку/i))common.push('Если очищали дроссель: патрубок и хомуты закреплены, разъём подключён');
+ if(/Arrizo 8|T4L|^T[789]$|Tiggo 7L/i.test(model)&&hasOperation(/шланга заливной горловины.*заменить/i))common.push('Если меняли шланг заливной горловины: соединения и хомуты закреплены, утечек топлива нет');
  if(/X90\+/i.test(model)&&current.variant==='20at'&&hasOperation(/заменить масло раздаточной коробки/i))common.push('Масло раздаточной коробки залито по сервисной процедуре; пробка затянута, течей нет');
  if(model==='T4L'&&hasOperation(/шланга адсорбера.*заменить/i))common.push('Если меняли шланг адсорбера: соединения закреплены, система герметична');
  if(/X90\+/i.test(model)&&current.variant==='20at'&&hasOperation(/заменить масла заднего дифференциала/i))common.push('Масла заднего дифференциала и муфты AWD залиты по процедуре; течей нет');
@@ -875,5 +910,5 @@ const finalBox=document.createElement('section');finalBox.className='card';final
  if(hybrid&&hasOperation(/(^|\s)Отключить высоковольтн/i))common.push('Высоковольтная система подключена после работы по процедуре, ошибок нет');
  return common;
 }
-function renderFinal(){if(!current)return;const defaults=finalChecksForJob(),signature=(current.items||[]).map(x=>x.text).join('\n');if(!Array.isArray(current.finalItems)||current.finalVersion!==13||current.finalChecklistSignature!==signature){const previous=new Map((Array.isArray(current.finalItems)?current.finalItems:[]).map(x=>[x.text,!!x.done]));current.finalItems=defaults.map(text=>({text,done:previous.get(text)||false}));current.finalVersion=13;current.finalChecklistSignature=signature;save()}$('final-checks').innerHTML=current.finalItems.map((x,i)=>`<label class="check ${x.done?'done':''}"><input type="checkbox" data-final="${i}" ${x.done?'checked':''}><span>${x.text}</span></label>`).join('');document.querySelectorAll('[data-final]').forEach(e=>e.onchange=()=>{current.finalItems[+e.dataset.final].done=e.checked;save();renderFinal();syncFinish()});syncFinish()}function syncFinish(){if(!current)return;$('finish').disabled=current.items.some(x=>!x.done)||!current.finalItems||current.finalItems.some(x=>!x.done)}new MutationObserver(()=>{renderFinal()}).observe($('checklist'),{childList:true});
+function renderFinal(){if(!current)return;const defaults=finalChecksForJob(),signature=(current.items||[]).map(x=>x.text).join('\n');if(!Array.isArray(current.finalItems)||current.finalVersion!==14||current.finalChecklistSignature!==signature){const previous=new Map((Array.isArray(current.finalItems)?current.finalItems:[]).map(x=>[x.text,!!x.done]));current.finalItems=defaults.map(text=>({text,done:previous.get(text)||false}));current.finalVersion=14;current.finalChecklistSignature=signature;save()}$('final-checks').innerHTML=current.finalItems.map((x,i)=>`<label class="check ${x.done?'done':''}"><input type="checkbox" data-final="${i}" ${x.done?'checked':''}><span>${x.text}</span></label>`).join('');document.querySelectorAll('[data-final]').forEach(e=>e.onchange=()=>{current.finalItems[+e.dataset.final].done=e.checked;save();renderFinal();syncFinish()});syncFinish()}function syncFinish(){if(!current)return;$('finish').disabled=current.items.some(x=>!x.done)||!current.finalItems||current.finalItems.some(x=>!x.done)}new MutationObserver(()=>{renderFinal()}).observe($('checklist'),{childList:true});
 const timerBox=document.createElement('section');timerBox.className='card';timerBox.innerHTML='<h3>Время работы</h3><p id="timer-value" class="hint">00:00:00</p><button id="timer-toggle" class="secondary wide">Начать работу</button><button id="timer-reset" class="danger wide">Сбросить время</button>';$('detail').insertBefore(timerBox,finalBox);let timerHandle=null;function timerSeconds(){if(!current)return 0;let t=current.timer||{total:0,running:false,started:0};return t.total+(t.running?Math.max(0,Math.floor((Date.now()-t.started)/1000)):0)}function renderTimer(){if(!current)return;let n=timerSeconds(),h=String(Math.floor(n/3600)).padStart(2,'0'),m=String(Math.floor(n%3600/60)).padStart(2,'0'),s=String(n%60).padStart(2,'0');$('timer-value').textContent=h+':'+m+':'+s;$('timer-toggle').textContent=current.timer&&current.timer.running?'Пауза':'Начать работу'}function timerTick(){renderTimer();if(current&&current.timer&&current.timer.running)save()}$('timer-toggle').onclick=()=>{if(!current)return;current.timer=current.timer||{total:0,running:false,started:0};if(current.timer.running){current.timer.total=timerSeconds();current.timer.running=false;current.timer.started=0}else{current.timer.running=true;current.timer.started=Date.now()}save();renderTimer()};$('timer-reset').onclick=()=>{if(current){current.timer={total:0,running:false,started:0};save();renderTimer()}};setInterval(timerTick,1000);
