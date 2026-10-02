@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.97.apk",
-  "versionName": "1.97",
-  "versionCode": 98,
+  "apk": "MechanicCheck-1.98.apk",
+  "versionName": "1.98",
+  "versionCode": 99,
   "size": 271243,
-  "notes": "Уточнён регламент JETOUR X50: полная карта проверок, первое обслуживание, сроки 5MT/6DCT, жидкости, фильтры и общие диагностические операции.",
-  "sha256": "1c2b603b34efb7c1cc7e5daa192f1a6fdf0ed422ec3ab03ee94865080602c573",
+  "notes": "BESTUNE T55 и T99: полные группы ТО, проверки агрегатов и корректные интервалы 7DCT/8AT/6AT",
+  "sha256": "b17082132ad1bdba0b3e8d8d02efdd8842871dce176ef25716c58fcf057dc9c5",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
