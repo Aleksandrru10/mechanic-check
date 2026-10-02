@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.98.apk",
-  "versionName": "1.98",
-  "versionCode": 99,
+  "apk": "MechanicCheck-1.99.apk",
+  "versionName": "1.99",
+  "versionCode": 100,
   "size": 271243,
-  "notes": "BESTUNE T55 и T99: полные группы ТО, проверки агрегатов и корректные интервалы 7DCT/8AT/6AT",
-  "sha256": "b17082132ad1bdba0b3e8d8d02efdd8842871dce176ef25716c58fcf057dc9c5",
+  "notes": "JETOUR T1 Гибрид: официальные технические данные, отдельный вариант 1DHT и проверки гибридной системы",
+  "sha256": "4a4509ae11b2033acb69e9a17edf27ce14a1033d5aa7455e89e7bf4b274f46da",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
