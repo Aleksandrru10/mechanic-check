@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.94.apk",
-  "versionName": "1.94",
-  "versionCode": 95,
-  "size": 267147,
-  "notes": "TENET T4 и JETOUR T1/T2/DASHING: дополнены все группы ТО и тяжёлые условия, уточнена первая замена CVT и наружный фильтр 730DHE. Недоказанные значения жидкостей явно отмечены. Проверки механика сохраняют отметки.",
-  "sha256": "1caf16b6d47c66257d1e4a306ebeb148dbb7f31fb0448b9171d9abcfaf6ecfa2",
+  "apk": "MechanicCheck-1.95.apk",
+  "versionName": "1.95",
+  "versionCode": 96,
+  "size": 271243,
+  "notes": "Добавлен выбор двигателя, коробки и привода для сохранённых CHERY TIGGO 4, TIGGO 7 PRO MAX и TIGGO 8 PRO MAX; регламент ТО фильтруется по выбранной модификации.",
+  "sha256": "839bab6e4e236b00f5520c96a45de1730eef8e08862ade27c90299f3311d416d",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
