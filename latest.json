@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.96.apk",
-  "versionName": "1.96",
-  "versionCode": 97,
+  "apk": "MechanicCheck-1.97.apk",
+  "versionName": "1.97",
+  "versionCode": 98,
   "size": 271243,
-  "notes": "Расширен регламент CHERY TIGGO 7 и TIGGO 8 Plug-in Hybrid: проверки тяговой батареи и высоковольтных разъёмов, DHT, два контура охлаждения, промежуточные и возрастные работы.",
-  "sha256": "9fa781f446fd82eb0095084ad405f595acd1a928a3568230d78016f60c6d9a7f",
+  "notes": "Уточнён регламент JETOUR X50: полная карта проверок, первое обслуживание, сроки 5MT/6DCT, жидкости, фильтры и общие диагностические операции.",
+  "sha256": "1c2b603b34efb7c1cc7e5daa192f1a6fdf0ed422ec3ab03ee94865080602c573",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
