@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-2.00.apk",
-  "versionName": "2.00",
-  "versionCode": 101,
+  "apk": "MechanicCheck-2.01.apk",
+  "versionName": "2.01",
+  "versionCode": 102,
   "size": 271243,
-  "notes": "Версия 2.00: добавлены подтвержденные обычные проверки JETOUR X70 по официальному руководству; плановые таблицы без данных не подменяются",
-  "sha256": "ea3e838ad8d3077ef200eab32b4bf2e18de6291487924ec373d742b90ada1963",
+  "notes": "Версия 2.01: уточнены официальные технические данные TENET A8 2026; сохранено требование VIN для отсутствующих таблиц ТО и жидкостей",
+  "sha256": "9a00f7fd497acefdfbc4dd8e983bb87e496dd7d4da11a5c92d5001bcb384c190",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
