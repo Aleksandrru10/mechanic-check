@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-2.01.apk",
-  "versionName": "2.01",
-  "versionCode": 102,
-  "size": 271243,
-  "notes": "Версия 2.01: уточнены официальные технические данные TENET A8 2026; сохранено требование VIN для отсутствующих таблиц ТО и жидкостей",
-  "sha256": "9a00f7fd497acefdfbc4dd8e983bb87e496dd7d4da11a5c92d5001bcb384c190",
+  "apk": "MechanicCheck-2.02.apk",
+  "versionName": "2.02",
+  "versionCode": 103,
+  "size": 275339,
+  "notes": "Версия 2.02: добавлены официальные позиции деталей и расходников CHERY для ARRIZO 8, TIGGO 7L и TIGGO 9 по ТО-1—ТО-8; добавлен файл передачи проекта GERMES Desktop",
+  "sha256": "5a095df5b6fd39d3376298bcbd596edbfb7b4f31b4d4d55a63fbe734fcaed19a",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
