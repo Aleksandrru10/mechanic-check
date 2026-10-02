@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.93.apk",
-  "versionName": "1.93",
-  "versionCode": 94,
+  "apk": "MechanicCheck-1.94.apk",
+  "versionName": "1.94",
+  "versionCode": 95,
   "size": 267147,
-  "notes": "TIGGO 9 и X70+: дополнены все группы осмотров и сроки ТО, уточнены примечания жидкостей, добавлены подтверждения 8AT/AWD и штуцеров DOT4/соединений охлаждения. Проверки механика сохраняют отметки.",
-  "sha256": "a07e05239883dd6b1638280e38506edfb0ff01ca3a9bf5877122a6c0ab0b5bed",
+  "notes": "TENET T4 и JETOUR T1/T2/DASHING: дополнены все группы ТО и тяжёлые условия, уточнена первая замена CVT и наружный фильтр 730DHE. Недоказанные значения жидкостей явно отмечены. Проверки механика сохраняют отметки.",
+  "sha256": "1caf16b6d47c66257d1e4a306ebeb148dbb7f31fb0448b9171d9abcfaf6ecfa2",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
