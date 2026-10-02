@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-1.99.apk",
-  "versionName": "1.99",
-  "versionCode": 100,
+  "apk": "MechanicCheck-2.00.apk",
+  "versionName": "2.00",
+  "versionCode": 101,
   "size": 271243,
-  "notes": "JETOUR T1 Гибрид: официальные технические данные, отдельный вариант 1DHT и проверки гибридной системы",
-  "sha256": "4a4509ae11b2033acb69e9a17edf27ce14a1033d5aa7455e89e7bf4b274f46da",
+  "notes": "Версия 2.00: добавлены подтвержденные обычные проверки JETOUR X70 по официальному руководству; плановые таблицы без данных не подменяются",
+  "sha256": "ea3e838ad8d3077ef200eab32b4bf2e18de6291487924ec373d742b90ada1963",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
