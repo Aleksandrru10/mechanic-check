@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-2.02.apk",
-  "versionName": "2.02",
-  "versionCode": 103,
+  "apk": "MechanicCheck-2.03.apk",
+  "versionName": "2.03",
+  "versionCode": 104,
   "size": 275339,
-  "notes": "Версия 2.02: добавлены официальные позиции деталей и расходников CHERY для ARRIZO 8, TIGGO 7L и TIGGO 9 по ТО-1—ТО-8; добавлен файл передачи проекта GERMES Desktop",
-  "sha256": "5a095df5b6fd39d3376298bcbd596edbfb7b4f31b4d4d55a63fbe734fcaed19a",
+  "notes": "Версия 2.03: добавлено редактирование автомобиля и названия работы без удаления чек-листа, отметок, таймера и заметки",
+  "sha256": "d95c424a932e0c5daf88f4c1b78ca33c0127bb362ddf893d9b4c67da039a3793",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
