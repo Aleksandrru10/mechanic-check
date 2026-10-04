@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-2.03.apk",
-  "versionName": "2.03",
-  "versionCode": 104,
+  "apk": "MechanicCheck-2.04.apk",
+  "versionName": "2.04",
+  "versionCode": 105,
   "size": 275339,
-  "notes": "Версия 2.03: добавлено редактирование автомобиля и названия работы без удаления чек-листа, отметок, таймера и заметки",
-  "sha256": "d95c424a932e0c5daf88f4c1b78ca33c0127bb362ddf893d9b4c67da039a3793",
+  "notes": "Версия 2.04: добавлен поиск по автомобилю и названию работы в истории текущих и завершённых ремонтов",
+  "sha256": "f2c1444801aa108f291150fd8360758b361096d977f9d58ba818e8be51597aba",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
