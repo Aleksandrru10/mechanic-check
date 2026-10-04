@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "apk": "MechanicCheck-2.05.apk",
-  "versionName": "2.05",
-  "versionCode": 106,
+  "apk": "MechanicCheck-2.06.apk",
+  "versionName": "2.06",
+  "versionCode": 107,
   "size": 275339,
-  "notes": "Версия 2.05: дополнена официальная техническая карточка JETOUR T1 Гибрид — батарея, запас хода, зарядка и гарантия; регламентные пробелы по ТО и жидкостям сохранены как требующие VIN",
-  "sha256": "d59742d6f2a04e4ab76daa4b46c7a8cb0b6aa9f8929ad21895e96fa726bae0b3",
+  "notes": "Единый рабочий чек-лист механика для регламентного ТО: колодки, петли, сервисная бирка и статусы фильтров",
+  "sha256": "cc003ff9c3821535eb8e38cc2a0295c1f5cea6c4269c76313a7bb7574f07153c",
   "minSdk": 26,
   "packageName": "ru.sash.mechaniccheck"
 }
